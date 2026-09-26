@@ -1,0 +1,506 @@
+Company,Ticker,FiscalYear,YearEnd,Category,Ratio,Unit,Value
+Hindustan Unilever,HUL,FY22,2022-03-31,Growth,Revenue Growth,%,0.115208
+Hindustan Unilever,HUL,FY23,2023-03-31,Growth,Revenue Growth,%,0.155093
+Hindustan Unilever,HUL,FY24,2024-03-31,Growth,Revenue Growth,%,0.021723
+Hindustan Unilever,HUL,FY25,2025-03-31,Growth,Revenue Growth,%,-0.009177
+Hindustan Unilever,HUL,FY26,2026-03-31,Growth,Revenue Growth,%,0.0512
+Hindustan Unilever,HUL,FY22,2022-03-31,Growth,Net Profit Growth,%,0.111639
+Hindustan Unilever,HUL,FY23,2023-03-31,Growth,Net Profit Growth,%,0.140688
+Hindustan Unilever,HUL,FY24,2024-03-31,Growth,Net Profit Growth,%,0.013704
+Hindustan Unilever,HUL,FY25,2025-03-31,Growth,Net Profit Growth,%,0.037833
+Hindustan Unilever,HUL,FY26,2026-03-31,Growth,Net Profit Growth,%,0.411208
+Hindustan Unilever,HUL,FY21,2021-03-31,Profitability,Operating Margin,%,0.247214
+Hindustan Unilever,HUL,FY22,2022-03-31,Profitability,Operating Margin,%,0.245147
+Hindustan Unilever,HUL,FY23,2023-03-31,Profitability,Operating Margin,%,0.233526
+Hindustan Unilever,HUL,FY24,2024-03-31,Profitability,Operating Margin,%,0.236833
+Hindustan Unilever,HUL,FY25,2025-03-31,Profitability,Operating Margin,%,0.239662
+Hindustan Unilever,HUL,FY26,2026-03-31,Profitability,Operating Margin,%,0.233279
+Hindustan Unilever,HUL,FY21,2021-03-31,Profitability,Net Profit Margin,%,0.17009
+Hindustan Unilever,HUL,FY22,2022-03-31,Profitability,Net Profit Margin,%,0.169546
+Hindustan Unilever,HUL,FY23,2023-03-31,Profitability,Net Profit Margin,%,0.167431
+Hindustan Unilever,HUL,FY24,2024-03-31,Profitability,Net Profit Margin,%,0.166117
+Hindustan Unilever,HUL,FY25,2025-03-31,Profitability,Net Profit Margin,%,0.173999
+Hindustan Unilever,HUL,FY26,2026-03-31,Profitability,Net Profit Margin,%,0.233589
+Hindustan Unilever,HUL,FY22,2022-03-31,Profitability,ROE,%,0.183842
+Hindustan Unilever,HUL,FY23,2023-03-31,Profitability,ROE,%,0.204156
+Hindustan Unilever,HUL,FY24,2024-03-31,Profitability,ROE,%,0.202557
+Hindustan Unilever,HUL,FY25,2025-03-31,Profitability,ROE,%,0.212105
+Hindustan Unilever,HUL,FY26,2026-03-31,Profitability,ROE,%,0.306885
+Hindustan Unilever,HUL,FY22,2022-03-31,Profitability,ROCE,%,0.245147
+Hindustan Unilever,HUL,FY23,2023-03-31,Profitability,ROCE,%,0.264851
+Hindustan Unilever,HUL,FY24,2024-03-31,Profitability,ROCE,%,0.273639
+Hindustan Unilever,HUL,FY25,2025-03-31,Profitability,ROCE,%,0.285296
+Hindustan Unilever,HUL,FY26,2026-03-31,Profitability,ROCE,%,0.367918
+Hindustan Unilever,HUL,FY22,2022-03-31,Profitability,ROA,%,0.127716
+Hindustan Unilever,HUL,FY23,2023-03-31,Profitability,ROA,%,0.141284
+Hindustan Unilever,HUL,FY24,2024-03-31,Profitability,ROA,%,0.135677
+Hindustan Unilever,HUL,FY25,2025-03-31,Profitability,ROA,%,0.134776
+Hindustan Unilever,HUL,FY26,2026-03-31,Profitability,ROA,%,0.188708
+Hindustan Unilever,HUL,FY22,2022-03-31,Efficiency,Asset Turnover,x,0.753286
+Hindustan Unilever,HUL,FY23,2023-03-31,Efficiency,Asset Turnover,x,0.843832
+Hindustan Unilever,HUL,FY24,2024-03-31,Efficiency,Asset Turnover,x,0.816753
+Hindustan Unilever,HUL,FY25,2025-03-31,Efficiency,Asset Turnover,x,0.774578
+Hindustan Unilever,HUL,FY26,2026-03-31,Efficiency,Asset Turnover,x,0.807865
+Hindustan Unilever,HUL,FY21,2021-03-31,Efficiency,Debtor Days,days,14.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Efficiency,Debtor Days,days,16.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Efficiency,Debtor Days,days,19.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Efficiency,Debtor Days,days,18.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Efficiency,Debtor Days,days,23.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Efficiency,Debtor Days,days,19.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Efficiency,Inventory Days,days,66.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Efficiency,Inventory Days,days,65.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Efficiency,Inventory Days,days,55.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Efficiency,Inventory Days,days,55.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Efficiency,Inventory Days,days,61.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Efficiency,Inventory Days,days,61.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Efficiency,Payable Days,days,163.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Efficiency,Payable Days,days,145.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Efficiency,Payable Days,days,123.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Efficiency,Payable Days,days,143.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Efficiency,Payable Days,days,156.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Efficiency,Payable Days,days,169.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Efficiency,Cash Conversion Cycle,days,-83.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Efficiency,Cash Conversion Cycle,days,-64.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Efficiency,Cash Conversion Cycle,days,-49.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Efficiency,Cash Conversion Cycle,days,-70.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Efficiency,Cash Conversion Cycle,days,-72.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Efficiency,Cash Conversion Cycle,days,-89.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Leverage,Debt to Equity,x,0.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Leverage,Debt to Equity,x,0.021259
+Hindustan Unilever,HUL,FY23,2023-03-31,Leverage,Debt to Equity,x,0.024233
+Hindustan Unilever,HUL,FY24,2024-03-31,Leverage,Debt to Equity,x,0.028974
+Hindustan Unilever,HUL,FY25,2025-03-31,Leverage,Debt to Equity,x,0.033359
+Hindustan Unilever,HUL,FY26,2026-03-31,Leverage,Debt to Equity,x,0.030325
+Hindustan Unilever,HUL,FY21,2021-03-31,Leverage,Interest Coverage,x,91.641026
+Hindustan Unilever,HUL,FY22,2022-03-31,Leverage,Interest Coverage,x,113.066038
+Hindustan Unilever,HUL,FY23,2023-03-31,Leverage,Interest Coverage,x,118.052632
+Hindustan Unilever,HUL,FY24,2024-03-31,Leverage,Interest Coverage,x,42.694611
+Hindustan Unilever,HUL,FY25,2025-03-31,Leverage,Interest Coverage,x,38.845144
+Hindustan Unilever,HUL,FY26,2026-03-31,Leverage,Interest Coverage,x,45.436585
+Hindustan Unilever,HUL,FY21,2021-03-31,Cash Flow,CFO to Net Profit,x,1.145518
+Hindustan Unilever,HUL,FY22,2022-03-31,Cash Flow,CFO to Net Profit,x,1.017544
+Hindustan Unilever,HUL,FY23,2023-03-31,Cash Flow,CFO to Net Profit,x,0.985014
+Hindustan Unilever,HUL,FY24,2024-03-31,Cash Flow,CFO to Net Profit,x,1.504474
+Hindustan Unilever,HUL,FY25,2025-03-31,Cash Flow,CFO to Net Profit,x,1.11386
+Hindustan Unilever,HUL,FY26,2026-03-31,Cash Flow,CFO to Net Profit,x,0.730394
+Hindustan Unilever,HUL,FY21,2021-03-31,Cash Flow,FCF Margin,%,0.108382
+Hindustan Unilever,HUL,FY22,2022-03-31,Cash Flow,FCF Margin,%,0.152443
+Hindustan Unilever,HUL,FY23,2023-03-31,Cash Flow,FCF Margin,%,0.148234
+Hindustan Unilever,HUL,FY24,2024-03-31,Cash Flow,FCF Margin,%,0.22638
+Hindustan Unilever,HUL,FY25,2025-03-31,Cash Flow,FCF Margin,%,0.173232
+Hindustan Unilever,HUL,FY26,2026-03-31,Cash Flow,FCF Margin,%,0.14995
+Hindustan Unilever,HUL,FY21,2021-03-31,Cash Flow,Dividend Payout,%,1.19
+Hindustan Unilever,HUL,FY22,2022-03-31,Cash Flow,Dividend Payout,%,0.9
+Hindustan Unilever,HUL,FY23,2023-03-31,Cash Flow,Dividend Payout,%,0.91
+Hindustan Unilever,HUL,FY24,2024-03-31,Cash Flow,Dividend Payout,%,0.96
+Hindustan Unilever,HUL,FY25,2025-03-31,Cash Flow,Dividend Payout,%,1.17
+Hindustan Unilever,HUL,FY26,2026-03-31,Cash Flow,Dividend Payout,%,0.64
+Hindustan Unilever,HUL,FY22,2022-03-31,DuPont,Equity Multiplier,x,1.439458
+Hindustan Unilever,HUL,FY23,2023-03-31,DuPont,Equity Multiplier,x,1.445006
+Hindustan Unilever,HUL,FY24,2024-03-31,DuPont,Equity Multiplier,x,1.492937
+Hindustan Unilever,HUL,FY25,2025-03-31,DuPont,Equity Multiplier,x,1.573763
+Hindustan Unilever,HUL,FY26,2026-03-31,DuPont,Equity Multiplier,x,1.626242
+ITC,ITC,FY22,2022-03-31,Growth,Revenue Growth,%,0.231196
+ITC,ITC,FY23,2023-03-31,Growth,Revenue Growth,%,0.169412
+ITC,ITC,FY24,2024-03-31,Growth,Revenue Growth,%,-0.042118
+ITC,ITC,FY25,2025-03-31,Growth,Revenue Growth,%,0.1088
+ITC,ITC,FY26,2026-03-31,Growth,Revenue Growth,%,0.047064
+ITC,ITC,FY22,2022-03-31,Growth,Net Profit Growth,%,0.15841
+ITC,ITC,FY23,2023-03-31,Growth,Net Profit Growth,%,0.256337
+ITC,ITC,FY24,2024-03-31,Growth,Net Profit Growth,%,0.06541
+ITC,ITC,FY25,2025-03-31,Growth,Net Profit Growth,%,0.689172
+ITC,ITC,FY26,2026-03-31,Growth,Net Profit Growth,%,-0.400377
+ITC,ITC,FY21,2021-03-31,Profitability,Operating Margin,%,0.346448
+ITC,ITC,FY22,2022-03-31,Profitability,Operating Margin,%,0.340061
+ITC,ITC,FY23,2023-03-31,Profitability,Operating Margin,%,0.362442
+ITC,ITC,FY24,2024-03-31,Profitability,Operating Margin,%,0.370783
+ITC,ITC,FY25,2025-03-31,Profitability,Operating Margin,%,0.34295
+ITC,ITC,FY26,2026-03-31,Profitability,Operating Margin,%,0.346224
+ITC,ITC,FY21,2021-03-31,Profitability,Net Profit Margin,%,0.271697
+ITC,ITC,FY22,2022-03-31,Profitability,Net Profit Margin,%,0.255635
+ITC,ITC,FY23,2023-03-31,Profitability,Net Profit Margin,%,0.274637
+ITC,ITC,FY24,2024-03-31,Profitability,Net Profit Margin,%,0.305467
+ITC,ITC,FY25,2025-03-31,Profitability,Net Profit Margin,%,0.465356
+ITC,ITC,FY26,2026-03-31,Profitability,Net Profit Margin,%,0.266496
+ITC,ITC,FY22,2022-03-31,Profitability,ROE,%,0.252488
+ITC,ITC,FY23,2023-03-31,Profitability,ROE,%,0.295981
+ITC,ITC,FY24,2024-03-31,Profitability,ROE,%,0.288886
+ITC,ITC,FY25,2025-03-31,Profitability,ROE,%,0.485025
+ITC,ITC,FY26,2026-03-31,Profitability,ROE,%,0.294913
+ITC,ITC,FY22,2022-03-31,Profitability,ROCE,%,0.337328
+ITC,ITC,FY23,2023-03-31,Profitability,ROCE,%,0.393342
+ITC,ITC,FY24,2024-03-31,Profitability,ROCE,%,0.374296
+ITC,ITC,FY25,2025-03-31,Profitability,ROCE,%,0.578646
+ITC,ITC,FY26,2026-03-31,Profitability,ROCE,%,0.387244
+ITC,ITC,FY22,2022-03-31,Profitability,ROA,%,0.205396
+ITC,ITC,FY23,2023-03-31,Profitability,ROA,%,0.238942
+ITC,ITC,FY24,2024-03-31,Profitability,ROA,%,0.233703
+ITC,ITC,FY25,2025-03-31,Profitability,ROA,%,0.389993
+ITC,ITC,FY26,2026-03-31,Profitability,ROA,%,0.231425
+ITC,ITC,FY22,2022-03-31,Efficiency,Asset Turnover,x,0.803474
+ITC,ITC,FY23,2023-03-31,Efficiency,Asset Turnover,x,0.870028
+ITC,ITC,FY24,2024-03-31,Efficiency,Asset Turnover,x,0.765069
+ITC,ITC,FY25,2025-03-31,Efficiency,Asset Turnover,x,0.838054
+ITC,ITC,FY26,2026-03-31,Efficiency,Asset Turnover,x,0.868399
+ITC,ITC,FY21,2021-03-31,Efficiency,Debtor Days,days,19.0
+ITC,ITC,FY22,2022-03-31,Efficiency,Debtor Days,days,15.0
+ITC,ITC,FY23,2023-03-31,Efficiency,Debtor Days,days,15.0
+ITC,ITC,FY24,2024-03-31,Efficiency,Debtor Days,days,22.0
+ITC,ITC,FY25,2025-03-31,Efficiency,Debtor Days,days,23.0
+ITC,ITC,FY26,2026-03-31,Efficiency,Debtor Days,days,18.0
+ITC,ITC,FY21,2021-03-31,Efficiency,Inventory Days,days,189.0
+ITC,ITC,FY22,2022-03-31,Efficiency,Inventory Days,days,150.0
+ITC,ITC,FY23,2023-03-31,Efficiency,Inventory Days,days,148.0
+ITC,ITC,FY24,2024-03-31,Efficiency,Inventory Days,days,191.0
+ITC,ITC,FY25,2025-03-31,Efficiency,Inventory Days,days,178.0
+ITC,ITC,FY26,2026-03-31,Efficiency,Inventory Days,days,209.0
+ITC,ITC,FY21,2021-03-31,Efficiency,Payable Days,days,78.0
+ITC,ITC,FY22,2022-03-31,Efficiency,Payable Days,days,61.0
+ITC,ITC,FY23,2023-03-31,Efficiency,Payable Days,days,59.0
+ITC,ITC,FY24,2024-03-31,Efficiency,Payable Days,days,65.0
+ITC,ITC,FY25,2025-03-31,Efficiency,Payable Days,days,55.0
+ITC,ITC,FY26,2026-03-31,Efficiency,Payable Days,days,63.0
+ITC,ITC,FY21,2021-03-31,Efficiency,Cash Conversion Cycle,days,130.0
+ITC,ITC,FY22,2022-03-31,Efficiency,Cash Conversion Cycle,days,104.0
+ITC,ITC,FY23,2023-03-31,Efficiency,Cash Conversion Cycle,days,104.0
+ITC,ITC,FY24,2024-03-31,Efficiency,Cash Conversion Cycle,days,148.0
+ITC,ITC,FY25,2025-03-31,Efficiency,Cash Conversion Cycle,days,146.0
+ITC,ITC,FY26,2026-03-31,Efficiency,Cash Conversion Cycle,days,164.0
+ITC,ITC,FY21,2021-03-31,Leverage,Debt to Equity,x,0.004491
+ITC,ITC,FY22,2022-03-31,Leverage,Debt to Equity,x,0.003987
+ITC,ITC,FY23,2023-03-31,Leverage,Debt to Equity,x,0.004425
+ITC,ITC,FY24,2024-03-31,Leverage,Debt to Equity,x,0.004067
+ITC,ITC,FY25,2025-03-31,Leverage,Debt to Equity,x,0.00407
+ITC,ITC,FY26,2026-03-31,Leverage,Debt to Equity,x,0.033086
+ITC,ITC,FY21,2021-03-31,Leverage,Interest Coverage,x,310.275862
+ITC,ITC,FY22,2022-03-31,Leverage,Interest Coverage,x,346.666667
+ITC,ITC,FY23,2023-03-31,Leverage,Interest Coverage,x,333.24359
+ITC,ITC,FY24,2024-03-31,Leverage,Interest Coverage,x,692.307692
+ITC,ITC,FY25,2025-03-31,Leverage,Interest Coverage,x,933.066667
+ITC,ITC,FY26,2026-03-31,Leverage,Interest Coverage,x,330.8
+ITC,ITC,FY21,2021-03-31,Cash Flow,CFO to Net Profit,x,0.936038
+ITC,ITC,FY22,2022-03-31,Cash Flow,CFO to Net Profit,x,1.017609
+ITC,ITC,FY23,2023-03-31,Cash Flow,CFO to Net Profit,x,0.969246
+ITC,ITC,FY24,2024-03-31,Cash Flow,CFO to Net Profit,x,0.827864
+ITC,ITC,FY25,2025-03-31,Cash Flow,CFO to Net Profit,x,0.502881
+ITC,ITC,FY26,2026-03-31,Cash Flow,CFO to Net Profit,x,0.878485
+ITC,ITC,FY21,2021-03-31,Cash Flow,FCF Margin,%,0.217086
+ITC,ITC,FY22,2022-03-31,Cash Flow,FCF Margin,%,0.22701
+ITC,ITC,FY23,2023-03-31,Cash Flow,FCF Margin,%,0.228204
+ITC,ITC,FY24,2024-03-31,Cash Flow,FCF Margin,%,0.202026
+ITC,ITC,FY25,2025-03-31,Cash Flow,FCF Margin,%,0.206099
+ITC,ITC,FY26,2026-03-31,Cash Flow,FCF Margin,%,0.20708
+ITC,ITC,FY21,2021-03-31,Cash Flow,Dividend Payout,%,1.01
+ITC,ITC,FY22,2022-03-31,Cash Flow,Dividend Payout,%,0.93
+ITC,ITC,FY23,2023-03-31,Cash Flow,Dividend Payout,%,1.0
+ITC,ITC,FY24,2024-03-31,Cash Flow,Dividend Payout,%,0.84
+ITC,ITC,FY25,2025-03-31,Cash Flow,Dividend Payout,%,0.52
+ITC,ITC,FY26,2026-03-31,Cash Flow,Dividend Payout,%,0.88
+ITC,ITC,FY22,2022-03-31,DuPont,Equity Multiplier,x,1.229272
+ITC,ITC,FY23,2023-03-31,DuPont,Equity Multiplier,x,1.238713
+ITC,ITC,FY24,2024-03-31,DuPont,Equity Multiplier,x,1.236124
+ITC,ITC,FY25,2025-03-31,DuPont,Equity Multiplier,x,1.243675
+ITC,ITC,FY26,2026-03-31,DuPont,Equity Multiplier,x,1.274336
+Dabur India,Dabur,FY22,2022-03-31,Growth,Revenue Growth,%,0.138778
+Dabur India,Dabur,FY23,2023-03-31,Growth,Revenue Growth,%,0.058867
+Dabur India,Dabur,FY24,2024-03-31,Growth,Revenue Growth,%,0.075802
+Dabur India,Dabur,FY25,2025-03-31,Growth,Revenue Growth,%,0.012818
+Dabur India,Dabur,FY26,2026-03-31,Growth,Revenue Growth,%,0.050147
+Dabur India,Dabur,FY22,2022-03-31,Growth,Net Profit Growth,%,0.027729
+Dabur India,Dabur,FY23,2023-03-31,Growth,Net Profit Growth,%,-0.023536
+Dabur India,Dabur,FY24,2024-03-31,Growth,Net Profit Growth,%,0.064668
+Dabur India,Dabur,FY25,2025-03-31,Growth,Net Profit Growth,%,-0.039205
+Dabur India,Dabur,FY26,2026-03-31,Growth,Net Profit Growth,%,0.074138
+Dabur India,Dabur,FY21,2021-03-31,Profitability,Operating Margin,%,0.20937
+Dabur India,Dabur,FY22,2022-03-31,Profitability,Operating Margin,%,0.206814
+Dabur India,Dabur,FY23,2023-03-31,Profitability,Operating Margin,%,0.187511
+Dabur India,Dabur,FY24,2024-03-31,Profitability,Operating Margin,%,0.193486
+Dabur India,Dabur,FY25,2025-03-31,Profitability,Operating Margin,%,0.184351
+Dabur India,Dabur,FY26,2026-03-31,Profitability,Operating Margin,%,0.185705
+Dabur India,Dabur,FY21,2021-03-31,Profitability,Net Profit Margin,%,0.177264
+Dabur India,Dabur,FY22,2022-03-31,Profitability,Net Profit Margin,%,0.159978
+Dabur India,Dabur,FY23,2023-03-31,Profitability,Net Profit Margin,%,0.147528
+Dabur India,Dabur,FY24,2024-03-31,Profitability,Net Profit Margin,%,0.146001
+Dabur India,Dabur,FY25,2025-03-31,Profitability,Net Profit Margin,%,0.138502
+Dabur India,Dabur,FY26,2026-03-31,Profitability,Net Profit Margin,%,0.141666
+Dabur India,Dabur,FY22,2022-03-31,Profitability,ROE,%,0.217126
+Dabur India,Dabur,FY23,2023-03-31,Profitability,ROE,%,0.196024
+Dabur India,Dabur,FY24,2024-03-31,Profitability,ROE,%,0.192261
+Dabur India,Dabur,FY25,2025-03-31,Profitability,ROE,%,0.168393
+Dabur India,Dabur,FY26,2026-03-31,Profitability,ROE,%,0.168234
+Dabur India,Dabur,FY22,2022-03-31,Profitability,ROCE,%,0.262496
+Dabur India,Dabur,FY23,2023-03-31,Profitability,ROCE,%,0.234879
+Dabur India,Dabur,FY24,2024-03-31,Profitability,ROCE,%,0.232295
+Dabur India,Dabur,FY25,2025-03-31,Profitability,ROCE,%,0.210783
+Dabur India,Dabur,FY26,2026-03-31,Profitability,ROCE,%,0.209764
+Dabur India,Dabur,FY22,2022-03-31,Profitability,ROA,%,0.150705
+Dabur India,Dabur,FY23,2023-03-31,Profitability,ROA,%,0.131164
+Dabur India,Dabur,FY24,2024-03-31,Profitability,ROA,%,0.125904
+Dabur India,Dabur,FY25,2025-03-31,Profitability,ROA,%,0.111019
+Dabur India,Dabur,FY26,2026-03-31,Profitability,ROA,%,0.110887
+Dabur India,Dabur,FY22,2022-03-31,Efficiency,Asset Turnover,x,0.942037
+Dabur India,Dabur,FY23,2023-03-31,Efficiency,Asset Turnover,x,0.889077
+Dabur India,Dabur,FY24,2024-03-31,Efficiency,Asset Turnover,x,0.862347
+Dabur India,Dabur,FY25,2025-03-31,Efficiency,Asset Turnover,x,0.80157
+Dabur India,Dabur,FY26,2026-03-31,Efficiency,Asset Turnover,x,0.782735
+Dabur India,Dabur,FY21,2021-03-31,Efficiency,Debtor Days,days,21.0
+Dabur India,Dabur,FY22,2022-03-31,Efficiency,Debtor Days,days,22.0
+Dabur India,Dabur,FY23,2023-03-31,Efficiency,Debtor Days,days,27.0
+Dabur India,Dabur,FY24,2024-03-31,Efficiency,Debtor Days,days,26.0
+Dabur India,Dabur,FY25,2025-03-31,Efficiency,Debtor Days,days,26.0
+Dabur India,Dabur,FY26,2026-03-31,Efficiency,Debtor Days,days,20.0
+Dabur India,Dabur,FY21,2021-03-31,Efficiency,Inventory Days,days,178.0
+Dabur India,Dabur,FY22,2022-03-31,Efficiency,Inventory Days,days,169.0
+Dabur India,Dabur,FY23,2023-03-31,Efficiency,Inventory Days,days,158.0
+Dabur India,Dabur,FY24,2024-03-31,Efficiency,Inventory Days,days,149.0
+Dabur India,Dabur,FY25,2025-03-31,Efficiency,Inventory Days,days,175.0
+Dabur India,Dabur,FY26,2026-03-31,Efficiency,Inventory Days,days,166.0
+Dabur India,Dabur,FY21,2021-03-31,Efficiency,Payable Days,days,197.0
+Dabur India,Dabur,FY22,2022-03-31,Efficiency,Payable Days,days,178.0
+Dabur India,Dabur,FY23,2023-03-31,Efficiency,Payable Days,days,171.0
+Dabur India,Dabur,FY24,2024-03-31,Efficiency,Payable Days,days,186.0
+Dabur India,Dabur,FY25,2025-03-31,Efficiency,Payable Days,days,215.0
+Dabur India,Dabur,FY26,2026-03-31,Efficiency,Payable Days,days,212.0
+Dabur India,Dabur,FY21,2021-03-31,Efficiency,Cash Conversion Cycle,days,2.0
+Dabur India,Dabur,FY22,2022-03-31,Efficiency,Cash Conversion Cycle,days,13.0
+Dabur India,Dabur,FY23,2023-03-31,Efficiency,Cash Conversion Cycle,days,14.0
+Dabur India,Dabur,FY24,2024-03-31,Efficiency,Cash Conversion Cycle,days,-11.0
+Dabur India,Dabur,FY25,2025-03-31,Efficiency,Cash Conversion Cycle,days,-14.0
+Dabur India,Dabur,FY26,2026-03-31,Efficiency,Cash Conversion Cycle,days,-26.0
+Dabur India,Dabur,FY21,2021-03-31,Leverage,Debt to Equity,x,0.066414
+Dabur India,Dabur,FY22,2022-03-31,Leverage,Debt to Equity,x,0.122882
+Dabur India,Dabur,FY23,2023-03-31,Leverage,Debt to Equity,x,0.130837
+Dabur India,Dabur,FY24,2024-03-31,Leverage,Debt to Equity,x,0.138354
+Dabur India,Dabur,FY25,2025-03-31,Leverage,Debt to Equity,x,0.087963
+Dabur India,Dabur,FY26,2026-03-31,Leverage,Debt to Equity,x,0.112707
+Dabur India,Dabur,FY21,2021-03-31,Leverage,Interest Coverage,x,67.322581
+Dabur India,Dabur,FY22,2022-03-31,Leverage,Interest Coverage,x,59.179487
+Dabur India,Dabur,FY23,2023-03-31,Leverage,Interest Coverage,x,29.448718
+Dabur India,Dabur,FY24,2024-03-31,Leverage,Interest Coverage,x,20.024194
+Dabur India,Dabur,FY25,2025-03-31,Leverage,Interest Coverage,x,14.768293
+Dabur India,Dabur,FY26,2026-03-31,Leverage,Interest Coverage,x,17.689655
+Dabur India,Dabur,FY21,2021-03-31,Cash Flow,CFO to Net Profit,x,1.247788
+Dabur India,Dabur,FY22,2022-03-31,Cash Flow,CFO to Net Profit,x,1.034443
+Dabur India,Dabur,FY23,2023-03-31,Cash Flow,CFO to Net Profit,x,0.87478
+Dabur India,Dabur,FY24,2024-03-31,Cash Flow,CFO to Net Profit,x,1.111541
+Dabur India,Dabur,FY25,2025-03-31,Cash Flow,CFO to Net Profit,x,1.141954
+Dabur India,Dabur,FY26,2026-03-31,Cash Flow,CFO to Net Profit,x,1.379882
+Dabur India,Dabur,FY21,2021-03-31,Cash Flow,FCF Margin,%,0.189082
+Dabur India,Dabur,FY22,2022-03-31,Cash Flow,FCF Margin,%,0.131601
+Dabur India,Dabur,FY23,2023-03-31,Cash Flow,FCF Margin,%,0.08699
+Dabur India,Dabur,FY24,2024-03-31,Cash Flow,FCF Margin,%,0.11714
+Dabur India,Dabur,FY25,2025-03-31,Cash Flow,FCF Margin,%,0.115259
+Dabur India,Dabur,FY26,2026-03-31,Cash Flow,FCF Margin,%,0.165239
+Dabur India,Dabur,FY21,2021-03-31,Cash Flow,Dividend Payout,%,0.5
+Dabur India,Dabur,FY22,2022-03-31,Cash Flow,Dividend Payout,%,0.53
+Dabur India,Dabur,FY23,2023-03-31,Cash Flow,Dividend Payout,%,0.54
+Dabur India,Dabur,FY24,2024-03-31,Cash Flow,Dividend Payout,%,0.53
+Dabur India,Dabur,FY25,2025-03-31,Cash Flow,Dividend Payout,%,0.8
+Dabur India,Dabur,FY26,2026-03-31,Cash Flow,Dividend Payout,%,0.77
+Dabur India,Dabur,FY22,2022-03-31,DuPont,Equity Multiplier,x,1.440733
+Dabur India,Dabur,FY23,2023-03-31,DuPont,Equity Multiplier,x,1.494497
+Dabur India,Dabur,FY24,2024-03-31,DuPont,Equity Multiplier,x,1.527045
+Dabur India,Dabur,FY25,2025-03-31,DuPont,Equity Multiplier,x,1.516791
+Dabur India,Dabur,FY26,2026-03-31,DuPont,Equity Multiplier,x,1.51717
+Britannia Industries,Britannia,FY22,2022-03-31,Growth,Revenue Growth,%,0.076127
+Britannia Industries,Britannia,FY23,2023-03-31,Growth,Revenue Growth,%,0.153155
+Britannia Industries,Britannia,FY24,2024-03-31,Growth,Revenue Growth,%,0.02871
+Britannia Industries,Britannia,FY25,2025-03-31,Growth,Revenue Growth,%,0.07001
+Britannia Industries,Britannia,FY26,2026-03-31,Growth,Revenue Growth,%,0.06738
+Britannia Industries,Britannia,FY22,2022-03-31,Growth,Net Profit Growth,%,-0.180983
+Britannia Industries,Britannia,FY23,2023-03-31,Growth,Net Profit Growth,%,0.527704
+Britannia Industries,Britannia,FY24,2024-03-31,Growth,Net Profit Growth,%,-0.078584
+Britannia Industries,Britannia,FY25,2025-03-31,Growth,Net Profit Growth,%,0.020619
+Britannia Industries,Britannia,FY26,2026-03-31,Growth,Net Profit Growth,%,0.16483
+Britannia Industries,Britannia,FY21,2021-03-31,Profitability,Operating Margin,%,0.191002
+Britannia Industries,Britannia,FY22,2022-03-31,Profitability,Operating Margin,%,0.155702
+Britannia Industries,Britannia,FY23,2023-03-31,Profitability,Operating Margin,%,0.17367
+Britannia Industries,Britannia,FY24,2024-03-31,Profitability,Operating Margin,%,0.18886
+Britannia Industries,Britannia,FY25,2025-03-31,Profitability,Operating Margin,%,0.177005
+Britannia Industries,Britannia,FY26,2026-03-31,Profitability,Operating Margin,%,0.18348
+Britannia Industries,Britannia,FY21,2021-03-31,Profitability,Net Profit Margin,%,0.14091
+Britannia Industries,Britannia,FY22,2022-03-31,Profitability,Net Profit Margin,%,0.107244
+Britannia Industries,Britannia,FY23,2023-03-31,Profitability,Net Profit Margin,%,0.142077
+Britannia Industries,Britannia,FY24,2024-03-31,Profitability,Net Profit Margin,%,0.127259
+Britannia Industries,Britannia,FY25,2025-03-31,Profitability,Net Profit Margin,%,0.121384
+Britannia Industries,Britannia,FY26,2026-03-31,Profitability,Net Profit Margin,%,0.132467
+Britannia Industries,Britannia,FY22,2022-03-31,Profitability,ROE,%,0.496561
+Britannia Industries,Britannia,FY23,2023-03-31,Profitability,ROE,%,0.760341
+Britannia Industries,Britannia,FY24,2024-03-31,Profitability,ROE,%,0.57097
+Britannia Industries,Britannia,FY25,2025-03-31,Profitability,ROE,%,0.525009
+Britannia Industries,Britannia,FY26,2026-03-31,Profitability,ROE,%,0.53625
+Britannia Industries,Britannia,FY22,2022-03-31,Profitability,ROCE,%,0.41556
+Britannia Industries,Britannia,FY23,2023-03-31,Profitability,ROCE,%,0.5535
+Britannia Industries,Britannia,FY24,2024-03-31,Profitability,ROCE,%,0.490867
+Britannia Industries,Britannia,FY25,2025-03-31,Profitability,ROCE,%,0.528211
+Britannia Industries,Britannia,FY26,2026-03-31,Profitability,ROCE,%,0.562826
+Britannia Industries,Britannia,FY22,2022-03-31,Profitability,ROA,%,0.195273
+Britannia Industries,Britannia,FY23,2023-03-31,Profitability,ROA,%,0.274473
+Britannia Industries,Britannia,FY24,2024-03-31,Profitability,ROA,%,0.23168
+Britannia Industries,Britannia,FY25,2025-03-31,Profitability,ROA,%,0.243243
+Britannia Industries,Britannia,FY26,2026-03-31,Profitability,ROA,%,0.273281
+Britannia Industries,Britannia,FY22,2022-03-31,Efficiency,Asset Turnover,x,1.820828
+Britannia Industries,Britannia,FY23,2023-03-31,Efficiency,Asset Turnover,x,1.931856
+Britannia Industries,Britannia,FY24,2024-03-31,Efficiency,Asset Turnover,x,1.820541
+Britannia Industries,Britannia,FY25,2025-03-31,Efficiency,Asset Turnover,x,2.003909
+Britannia Industries,Britannia,FY26,2026-03-31,Efficiency,Asset Turnover,x,2.063015
+Britannia Industries,Britannia,FY21,2021-03-31,Efficiency,Debtor Days,days,7.0
+Britannia Industries,Britannia,FY22,2022-03-31,Efficiency,Debtor Days,days,9.0
+Britannia Industries,Britannia,FY23,2023-03-31,Efficiency,Debtor Days,days,7.0
+Britannia Industries,Britannia,FY24,2024-03-31,Efficiency,Debtor Days,days,9.0
+Britannia Industries,Britannia,FY25,2025-03-31,Efficiency,Debtor Days,days,9.0
+Britannia Industries,Britannia,FY26,2026-03-31,Efficiency,Debtor Days,days,9.0
+Britannia Industries,Britannia,FY21,2021-03-31,Efficiency,Inventory Days,days,52.0
+Britannia Industries,Britannia,FY22,2022-03-31,Efficiency,Inventory Days,days,57.0
+Britannia Industries,Britannia,FY23,2023-03-31,Efficiency,Inventory Days,days,45.0
+Britannia Industries,Britannia,FY24,2024-03-31,Efficiency,Inventory Days,days,45.0
+Britannia Industries,Britannia,FY25,2025-03-31,Efficiency,Inventory Days,days,43.0
+Britannia Industries,Britannia,FY26,2026-03-31,Efficiency,Inventory Days,days,44.0
+Britannia Industries,Britannia,FY21,2021-03-31,Efficiency,Payable Days,days,63.0
+Britannia Industries,Britannia,FY22,2022-03-31,Efficiency,Payable Days,days,55.0
+Britannia Industries,Britannia,FY23,2023-03-31,Efficiency,Payable Days,days,55.0
+Britannia Industries,Britannia,FY24,2024-03-31,Efficiency,Payable Days,days,63.0
+Britannia Industries,Britannia,FY25,2025-03-31,Efficiency,Payable Days,days,60.0
+Britannia Industries,Britannia,FY26,2026-03-31,Efficiency,Payable Days,days,62.0
+Britannia Industries,Britannia,FY21,2021-03-31,Efficiency,Cash Conversion Cycle,days,-4.0
+Britannia Industries,Britannia,FY22,2022-03-31,Efficiency,Cash Conversion Cycle,days,11.0
+Britannia Industries,Britannia,FY23,2023-03-31,Efficiency,Cash Conversion Cycle,days,-3.0
+Britannia Industries,Britannia,FY24,2024-03-31,Efficiency,Cash Conversion Cycle,days,-9.0
+Britannia Industries,Britannia,FY25,2025-03-31,Efficiency,Cash Conversion Cycle,days,-8.0
+Britannia Industries,Britannia,FY26,2026-03-31,Efficiency,Cash Conversion Cycle,days,-9.0
+Britannia Industries,Britannia,FY21,2021-03-31,Leverage,Debt to Equity,x,0.593856
+Britannia Industries,Britannia,FY22,2022-03-31,Leverage,Debt to Equity,x,0.969898
+Britannia Industries,Britannia,FY23,2023-03-31,Leverage,Debt to Equity,x,0.848048
+Britannia Industries,Britannia,FY24,2024-03-31,Leverage,Debt to Equity,x,0.523979
+Britannia Industries,Britannia,FY25,2025-03-31,Leverage,Debt to Equity,x,0.286272
+Britannia Industries,Britannia,FY26,2026-03-31,Leverage,Debt to Equity,x,0.27027
+Britannia Industries,Britannia,FY21,2021-03-31,Leverage,Interest Coverage,x,23.648649
+Britannia Industries,Britannia,FY22,2022-03-31,Leverage,Interest Coverage,x,15.430556
+Britannia Industries,Britannia,FY23,2023-03-31,Leverage,Interest Coverage,x,18.946746
+Britannia Industries,Britannia,FY24,2024-03-31,Leverage,Interest Coverage,x,18.762195
+Britannia Industries,Britannia,FY25,2025-03-31,Leverage,Interest Coverage,x,22.057554
+Britannia Industries,Britannia,FY26,2026-03-31,Leverage,Interest Coverage,x,30.106195
+Britannia Industries,Britannia,FY21,2021-03-31,Cash Flow,CFO to Net Profit,x,1.0
+Britannia Industries,Britannia,FY22,2022-03-31,Cash Flow,CFO to Net Profit,x,0.85752
+Britannia Industries,Britannia,FY23,2023-03-31,Cash Flow,CFO to Net Profit,x,1.090674
+Britannia Industries,Britannia,FY24,2024-03-31,Cash Flow,CFO to Net Profit,x,1.205717
+Britannia Industries,Britannia,FY25,2025-03-31,Cash Flow,CFO to Net Profit,x,1.14371
+Britannia Industries,Britannia,FY26,2026-03-31,Cash Flow,CFO to Net Profit,x,1.029562
+Britannia Industries,Britannia,FY21,2021-03-31,Cash Flow,FCF Margin,%,0.12264
+Britannia Industries,Britannia,FY22,2022-03-31,Cash Flow,FCF Margin,%,0.053198
+Britannia Industries,Britannia,FY23,2023-03-31,Cash Flow,FCF Margin,%,0.116128
+Britannia Industries,Britannia,FY24,2024-03-31,Cash Flow,FCF Margin,%,0.124337
+Britannia Industries,Britannia,FY25,2025-03-31,Cash Flow,FCF Margin,%,0.118152
+Britannia Industries,Britannia,FY26,2026-03-31,Cash Flow,FCF Margin,%,0.125731
+Britannia Industries,Britannia,FY21,2021-03-31,Cash Flow,Dividend Payout,%,2.04
+Britannia Industries,Britannia,FY22,2022-03-31,Cash Flow,Dividend Payout,%,0.89
+Britannia Industries,Britannia,FY23,2023-03-31,Cash Flow,Dividend Payout,%,0.75
+Britannia Industries,Britannia,FY24,2024-03-31,Cash Flow,Dividend Payout,%,0.83
+Britannia Industries,Britannia,FY25,2025-03-31,Cash Flow,Dividend Payout,%,0.83
+Britannia Industries,Britannia,FY26,2026-03-31,Cash Flow,Dividend Payout,%,0.86
+Britannia Industries,Britannia,FY22,2022-03-31,DuPont,Equity Multiplier,x,2.542909
+Britannia Industries,Britannia,FY23,2023-03-31,DuPont,Equity Multiplier,x,2.77019
+Britannia Industries,Britannia,FY24,2024-03-31,DuPont,Equity Multiplier,x,2.464482
+Britannia Industries,Britannia,FY25,2025-03-31,DuPont,Equity Multiplier,x,2.15837
+Britannia Industries,Britannia,FY26,2026-03-31,DuPont,Equity Multiplier,x,1.96227
+Marico,Marico,FY22,2022-03-31,Growth,Revenue Growth,%,0.181909
+Marico,Marico,FY23,2023-03-31,Growth,Revenue Growth,%,0.026493
+Marico,Marico,FY24,2024-03-31,Growth,Revenue Growth,%,-0.011368
+Marico,Marico,FY25,2025-03-31,Growth,Revenue Growth,%,0.122035
+Marico,Marico,FY26,2026-03-31,Growth,Revenue Growth,%,0.256671
+Marico,Marico,FY22,2022-03-31,Growth,Net Profit Growth,%,0.046706
+Marico,Marico,FY23,2023-03-31,Growth,Net Profit Growth,%,0.053386
+Marico,Marico,FY24,2024-03-31,Growth,Net Profit Growth,%,0.136157
+Marico,Marico,FY25,2025-03-31,Growth,Net Profit Growth,%,0.103862
+Marico,Marico,FY26,2026-03-31,Growth,Net Profit Growth,%,0.093486
+Marico,Marico,FY21,2021-03-31,Profitability,Operating Margin,%,0.19744
+Marico,Marico,FY22,2022-03-31,Profitability,Operating Margin,%,0.176724
+Marico,Marico,FY23,2023-03-31,Profitability,Operating Margin,%,0.185375
+Marico,Marico,FY24,2024-03-31,Profitability,Operating Margin,%,0.209883
+Marico,Marico,FY25,2025-03-31,Profitability,Operating Margin,%,0.197489
+Marico,Marico,FY26,2026-03-31,Profitability,Operating Margin,%,0.171038
+Marico,Marico,FY21,2021-03-31,Profitability,Net Profit Margin,%,0.148981
+Marico,Marico,FY22,2022-03-31,Profitability,Net Profit Margin,%,0.131939
+Marico,Marico,FY23,2023-03-31,Profitability,Net Profit Margin,%,0.135395
+Marico,Marico,FY24,2024-03-31,Profitability,Net Profit Margin,%,0.155599
+Marico,Marico,FY25,2025-03-31,Profitability,Net Profit Margin,%,0.153079
+Marico,Marico,FY26,2026-03-31,Profitability,Net Profit Margin,%,0.133201
+Marico,Marico,FY22,2022-03-31,Profitability,ROE,%,0.380996
+Marico,Marico,FY23,2023-03-31,Profitability,ROE,%,0.369945
+Marico,Marico,FY24,2024-03-31,Profitability,ROE,%,0.393657
+Marico,Marico,FY25,2025-03-31,Profitability,ROE,%,0.424747
+Marico,Marico,FY26,2026-03-31,Profitability,ROE,%,0.443005
+Marico,Marico,FY22,2022-03-31,Profitability,ROCE,%,0.432832
+Marico,Marico,FY23,2023-03-31,Profitability,ROCE,%,0.436969
+Marico,Marico,FY24,2024-03-31,Profitability,ROCE,%,0.458538
+Marico,Marico,FY25,2025-03-31,Profitability,ROCE,%,0.488019
+Marico,Marico,FY26,2026-03-31,Profitability,ROCE,%,0.501291
+Marico,Marico,FY22,2022-03-31,Profitability,ROA,%,0.226065
+Marico,Marico,FY23,2023-03-31,Profitability,ROA,%,0.21191
+Marico,Marico,FY24,2024-03-31,Profitability,ROA,%,0.212252
+Marico,Marico,FY25,2025-03-31,Profitability,ROA,%,0.212183
+Marico,Marico,FY26,2026-03-31,Profitability,ROA,%,0.198957
+Marico,Marico,FY22,2022-03-31,Efficiency,Asset Turnover,x,1.713411
+Marico,Marico,FY23,2023-03-31,Efficiency,Asset Turnover,x,1.56512
+Marico,Marico,FY24,2024-03-31,Efficiency,Asset Turnover,x,1.364092
+Marico,Marico,FY25,2025-03-31,Efficiency,Asset Turnover,x,1.386102
+Marico,Marico,FY26,2026-03-31,Efficiency,Asset Turnover,x,1.493663
+Marico,Marico,FY21,2021-03-31,Efficiency,Debtor Days,days,18.0
+Marico,Marico,FY22,2022-03-31,Efficiency,Debtor Days,days,25.0
+Marico,Marico,FY23,2023-03-31,Efficiency,Debtor Days,days,38.0
+Marico,Marico,FY24,2024-03-31,Efficiency,Debtor Days,days,40.0
+Marico,Marico,FY25,2025-03-31,Efficiency,Debtor Days,days,43.0
+Marico,Marico,FY26,2026-03-31,Efficiency,Debtor Days,days,35.0
+Marico,Marico,FY21,2021-03-31,Efficiency,Inventory Days,days,108.0
+Marico,Marico,FY22,2022-03-31,Efficiency,Inventory Days,days,106.0
+Marico,Marico,FY23,2023-03-31,Efficiency,Inventory Days,days,94.0
+Marico,Marico,FY24,2024-03-31,Efficiency,Inventory Days,days,116.0
+Marico,Marico,FY25,2025-03-31,Efficiency,Inventory Days,days,93.0
+Marico,Marico,FY26,2026-03-31,Efficiency,Inventory Days,days,85.0
+Marico,Marico,FY21,2021-03-31,Efficiency,Payable Days,days,109.0
+Marico,Marico,FY22,2022-03-31,Efficiency,Payable Days,days,101.0
+Marico,Marico,FY23,2023-03-31,Efficiency,Payable Days,days,112.0
+Marico,Marico,FY24,2024-03-31,Efficiency,Payable Days,days,137.0
+Marico,Marico,FY25,2025-03-31,Efficiency,Payable Days,days,103.0
+Marico,Marico,FY26,2026-03-31,Efficiency,Payable Days,days,108.0
+Marico,Marico,FY21,2021-03-31,Efficiency,Cash Conversion Cycle,days,17.0
+Marico,Marico,FY22,2022-03-31,Efficiency,Cash Conversion Cycle,days,30.0
+Marico,Marico,FY23,2023-03-31,Efficiency,Cash Conversion Cycle,days,20.0
+Marico,Marico,FY24,2024-03-31,Efficiency,Cash Conversion Cycle,days,19.0
+Marico,Marico,FY25,2025-03-31,Efficiency,Cash Conversion Cycle,days,33.0
+Marico,Marico,FY26,2026-03-31,Efficiency,Cash Conversion Cycle,days,12.0
+Marico,Marico,FY21,2021-03-31,Leverage,Debt to Equity,x,0.157716
+Marico,Marico,FY22,2022-03-31,Leverage,Debt to Equity,x,0.14307
+Marico,Marico,FY23,2023-03-31,Leverage,Debt to Equity,x,0.160042
+Marico,Marico,FY24,2024-03-31,Leverage,Debt to Equity,x,0.137787
+Marico,Marico,FY25,2025-03-31,Leverage,Debt to Equity,x,0.139371
+Marico,Marico,FY26,2026-03-31,Leverage,Debt to Equity,x,0.132304
+Marico,Marico,FY21,2021-03-31,Leverage,Interest Coverage,x,45.794118
+Marico,Marico,FY22,2022-03-31,Leverage,Interest Coverage,x,42.051282
+Marico,Marico,FY23,2023-03-31,Leverage,Interest Coverage,x,32.125
+Marico,Marico,FY24,2024-03-31,Leverage,Interest Coverage,x,27.534247
+Marico,Marico,FY25,2025-03-31,Leverage,Interest Coverage,x,40.924528
+Marico,Marico,FY26,2026-03-31,Leverage,Interest Coverage,x,43.962264
+Marico,Marico,FY21,2021-03-31,Cash Flow,CFO to Net Profit,x,1.673895
+Marico,Marico,FY22,2022-03-31,Cash Flow,CFO to Net Profit,x,0.809562
+Marico,Marico,FY23,2023-03-31,Cash Flow,CFO to Net Profit,x,1.073374
+Marico,Marico,FY24,2024-03-31,Cash Flow,CFO to Net Profit,x,0.923435
+Marico,Marico,FY25,2025-03-31,Cash Flow,CFO to Net Profit,x,0.822075
+Marico,Marico,FY26,2026-03-31,Cash Flow,CFO to Net Profit,x,1.149476
+Marico,Marico,FY21,2021-03-31,Cash Flow,FCF Margin,%,0.232356
+Marico,Marico,FY22,2022-03-31,Cash Flow,FCF Margin,%,0.092935
+Marico,Marico,FY23,2023-03-31,Cash Flow,FCF Margin,%,0.12669
+Marico,Marico,FY24,2024-03-31,Cash Flow,FCF Margin,%,0.127836
+Marico,Marico,FY25,2025-03-31,Cash Flow,FCF Margin,%,0.114579
+Marico,Marico,FY26,2026-03-31,Cash Flow,FCF Margin,%,0.130189
+Marico,Marico,FY21,2021-03-31,Cash Flow,Dividend Payout,%,0.83
+Marico,Marico,FY22,2022-03-31,Cash Flow,Dividend Payout,%,0.97
+Marico,Marico,FY23,2023-03-31,Cash Flow,Dividend Payout,%,0.45
+Marico,Marico,FY24,2024-03-31,Cash Flow,Dividend Payout,%,0.83
+Marico,Marico,FY25,2025-03-31,Cash Flow,Dividend Payout,%,0.83
+Marico,Marico,FY26,2026-03-31,Cash Flow,Dividend Payout,%,0.3
+Marico,Marico,FY22,2022-03-31,DuPont,Equity Multiplier,x,1.685337
+Marico,Marico,FY23,2023-03-31,DuPont,Equity Multiplier,x,1.745767
+Marico,Marico,FY24,2024-03-31,DuPont,Equity Multiplier,x,1.854672
+Marico,Marico,FY25,2025-03-31,DuPont,Equity Multiplier,x,2.001793
+Marico,Marico,FY26,2026-03-31,DuPont,Equity Multiplier,x,2.226634
