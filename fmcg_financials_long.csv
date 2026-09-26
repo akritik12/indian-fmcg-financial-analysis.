@@ -1,0 +1,751 @@
+Company,Ticker,FiscalYear,YearEnd,Statement,LineItem,Value_INR_Cr
+Hindustan Unilever,HUL,FY21,2021-03-31,Income Statement,Sales,47028.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Income Statement,Sales,52446.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Income Statement,Sales,60580.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Income Statement,Sales,61896.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Income Statement,Sales,61328.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Income Statement,Sales,64468.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Income Statement,Expenses,35402.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Income Statement,Expenses,39589.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Income Statement,Expenses,46433.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Income Statement,Expenses,47237.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Income Statement,Expenses,46630.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Income Statement,Expenses,49429.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Income Statement,Operating Profit,11626.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Income Statement,Operating Profit,12857.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Income Statement,Operating Profit,14147.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Income Statement,Operating Profit,14659.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Income Statement,Operating Profit,14698.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Income Statement,Operating Profit,15039.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Income Statement,Other Income,170.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Income Statement,Other Income,219.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Income Statement,Other Income,448.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Income Statement,Other Income,817.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Income Statement,Other Income,1355.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Income Statement,Other Income,4923.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Income Statement,Interest,117.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Income Statement,Interest,106.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Income Statement,Interest,114.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Income Statement,Interest,334.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Income Statement,Interest,381.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Income Statement,Interest,410.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Income Statement,Depreciation,1074.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Income Statement,Depreciation,1091.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Income Statement,Depreciation,1137.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Income Statement,Depreciation,1216.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Income Statement,Depreciation,1253.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Income Statement,Depreciation,1333.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Income Statement,Profit Before Tax,10605.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Income Statement,Profit Before Tax,11879.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Income Statement,Profit Before Tax,13344.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Income Statement,Profit Before Tax,13926.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Income Statement,Profit Before Tax,14419.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Income Statement,Profit Before Tax,18219.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Income Statement,Net Profit,7999.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Income Statement,Net Profit,8892.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Income Statement,Net Profit,10143.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Income Statement,Net Profit,10282.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Income Statement,Net Profit,10671.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Income Statement,Net Profit,15059.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Income Statement,EPS,34.03
+Hindustan Unilever,HUL,FY22,2022-03-31,Income Statement,EPS,37.79
+Hindustan Unilever,HUL,FY23,2023-03-31,Income Statement,EPS,43.07
+Hindustan Unilever,HUL,FY24,2024-03-31,Income Statement,EPS,43.74
+Hindustan Unilever,HUL,FY25,2025-03-31,Income Statement,EPS,45.32
+Hindustan Unilever,HUL,FY26,2026-03-31,Income Statement,EPS,64.01
+Hindustan Unilever,HUL,FY21,2021-03-31,Balance Sheet,Equity Capital,235.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Balance Sheet,Equity Capital,235.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Balance Sheet,Equity Capital,235.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Balance Sheet,Equity Capital,235.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Balance Sheet,Equity Capital,235.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Balance Sheet,Equity Capital,235.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Balance Sheet,Reserves,47439.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Balance Sheet,Reserves,48826.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Balance Sheet,Reserves,50069.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Balance Sheet,Reserves,50983.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Balance Sheet,Reserves,49167.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Balance Sheet,Reserves,48504.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Balance Sheet,Borrowings,0.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Balance Sheet,Borrowings,1043.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Balance Sheet,Borrowings,1219.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Balance Sheet,Borrowings,1484.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Balance Sheet,Borrowings,1648.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Balance Sheet,Borrowings,1478.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Balance Sheet,Other Liabilities,21066.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Balance Sheet,Other Liabilities,20402.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Balance Sheet,Other Liabilities,21554.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Balance Sheet,Other Liabilities,25787.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Balance Sheet,Other Liabilities,28813.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Balance Sheet,Other Liabilities,29521.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Balance Sheet,Total Liabilities,68740.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Balance Sheet,Total Liabilities,70506.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Balance Sheet,Total Liabilities,73077.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Balance Sheet,Total Liabilities,78489.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Balance Sheet,Total Liabilities,79863.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Balance Sheet,Total Liabilities,79738.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Balance Sheet,Fixed Assets,51443.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Balance Sheet,Fixed Assets,51473.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Balance Sheet,Fixed Assets,52678.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Balance Sheet,Fixed Assets,53744.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Balance Sheet,Fixed Assets,54335.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Balance Sheet,Fixed Assets,57428.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Balance Sheet,CWIP,745.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Balance Sheet,CWIP,1313.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Balance Sheet,CWIP,1132.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Balance Sheet,CWIP,1025.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Balance Sheet,CWIP,1009.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Balance Sheet,CWIP,880.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Balance Sheet,Investments,2709.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Balance Sheet,Investments,3521.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Balance Sheet,Investments,2882.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Balance Sheet,Investments,4625.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Balance Sheet,Investments,3810.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Balance Sheet,Investments,4359.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Balance Sheet,Other Assets,13843.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Balance Sheet,Other Assets,14199.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Balance Sheet,Other Assets,16385.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Balance Sheet,Other Assets,19095.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Balance Sheet,Other Assets,20709.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Balance Sheet,Other Assets,17071.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Balance Sheet,Shareholders' Equity,47674.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Balance Sheet,Shareholders' Equity,49061.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Balance Sheet,Shareholders' Equity,50304.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Balance Sheet,Shareholders' Equity,51218.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Balance Sheet,Shareholders' Equity,49402.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Balance Sheet,Shareholders' Equity,48739.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Balance Sheet,Capital Employed,47674.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Balance Sheet,Capital Employed,50104.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Balance Sheet,Capital Employed,51523.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Balance Sheet,Capital Employed,52702.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Balance Sheet,Capital Employed,51050.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Balance Sheet,Capital Employed,50217.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Income Statement,EBIT,10722.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Income Statement,EBIT,11985.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Income Statement,EBIT,13458.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Income Statement,EBIT,14260.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Income Statement,EBIT,14800.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Income Statement,EBIT,18629.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Cash Flow,Cash from Operations,9163.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Cash Flow,Cash from Operations,9048.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Cash Flow,Cash from Operations,9991.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Cash Flow,Cash from Operations,15469.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Cash Flow,Cash from Operations,11886.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Cash Flow,Cash from Operations,10999.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Cash Flow,Cash from Investing,-1228.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Cash Flow,Cash from Investing,-1728.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Cash Flow,Cash from Investing,-1484.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Cash Flow,Cash from Investing,-5324.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Cash Flow,Cash from Investing,6473.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Cash Flow,Cash from Investing,-3676.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Cash Flow,Cash from Financing,-9309.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Cash Flow,Cash from Financing,-8015.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Cash Flow,Cash from Financing,-8953.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Cash Flow,Cash from Financing,-10034.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Cash Flow,Cash from Financing,-13101.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Cash Flow,Cash from Financing,-10810.0
+Hindustan Unilever,HUL,FY21,2021-03-31,Cash Flow,Free Cash Flow,5097.0
+Hindustan Unilever,HUL,FY22,2022-03-31,Cash Flow,Free Cash Flow,7995.0
+Hindustan Unilever,HUL,FY23,2023-03-31,Cash Flow,Free Cash Flow,8980.0
+Hindustan Unilever,HUL,FY24,2024-03-31,Cash Flow,Free Cash Flow,14012.0
+Hindustan Unilever,HUL,FY25,2025-03-31,Cash Flow,Free Cash Flow,10624.0
+Hindustan Unilever,HUL,FY26,2026-03-31,Cash Flow,Free Cash Flow,9667.0
+ITC,ITC,FY21,2021-03-31,Income Statement,Sales,49257.0
+ITC,ITC,FY22,2022-03-31,Income Statement,Sales,60645.0
+ITC,ITC,FY23,2023-03-31,Income Statement,Sales,70919.0
+ITC,ITC,FY24,2024-03-31,Income Statement,Sales,67932.0
+ITC,ITC,FY25,2025-03-31,Income Statement,Sales,75323.0
+ITC,ITC,FY26,2026-03-31,Income Statement,Sales,78868.0
+ITC,ITC,FY21,2021-03-31,Income Statement,Expenses,32193.0
+ITC,ITC,FY22,2022-03-31,Income Statement,Expenses,40021.0
+ITC,ITC,FY23,2023-03-31,Income Statement,Expenses,45215.0
+ITC,ITC,FY24,2024-03-31,Income Statement,Expenses,42744.0
+ITC,ITC,FY25,2025-03-31,Income Statement,Expenses,49492.0
+ITC,ITC,FY26,2026-03-31,Income Statement,Expenses,51562.0
+ITC,ITC,FY21,2021-03-31,Income Statement,Operating Profit,17065.0
+ITC,ITC,FY22,2022-03-31,Income Statement,Operating Profit,20623.0
+ITC,ITC,FY23,2023-03-31,Income Statement,Operating Profit,25704.0
+ITC,ITC,FY24,2024-03-31,Income Statement,Operating Profit,25188.0
+ITC,ITC,FY25,2025-03-31,Income Statement,Operating Profit,25832.0
+ITC,ITC,FY26,2026-03-31,Income Statement,Operating Profit,27306.0
+ITC,ITC,FY21,2021-03-31,Income Statement,Other Income,2577.0
+ITC,ITC,FY22,2022-03-31,Income Statement,Other Income,1910.0
+ITC,ITC,FY23,2023-03-31,Income Statement,Other Income,2098.0
+ITC,ITC,FY24,2024-03-31,Income Statement,Other Income,3330.0
+ITC,ITC,FY25,2025-03-31,Income Statement,Other Income,17803.0
+ITC,ITC,FY26,2026-03-31,Income Statement,Other Income,2523.0
+ITC,ITC,FY21,2021-03-31,Income Statement,Interest,58.0
+ITC,ITC,FY22,2022-03-31,Income Statement,Interest,60.0
+ITC,ITC,FY23,2023-03-31,Income Statement,Interest,78.0
+ITC,ITC,FY24,2024-03-31,Income Statement,Interest,39.0
+ITC,ITC,FY25,2025-03-31,Income Statement,Interest,45.0
+ITC,ITC,FY26,2026-03-31,Income Statement,Interest,85.0
+ITC,ITC,FY21,2021-03-31,Income Statement,Depreciation,1646.0
+ITC,ITC,FY22,2022-03-31,Income Statement,Depreciation,1732.0
+ITC,ITC,FY23,2023-03-31,Income Statement,Depreciation,1809.0
+ITC,ITC,FY24,2024-03-31,Income Statement,Depreciation,1518.0
+ITC,ITC,FY25,2025-03-31,Income Statement,Depreciation,1646.0
+ITC,ITC,FY26,2026-03-31,Income Statement,Depreciation,1711.0
+ITC,ITC,FY21,2021-03-31,Income Statement,Profit Before Tax,17938.0
+ITC,ITC,FY22,2022-03-31,Income Statement,Profit Before Tax,20740.0
+ITC,ITC,FY23,2023-03-31,Income Statement,Profit Before Tax,25915.0
+ITC,ITC,FY24,2024-03-31,Income Statement,Profit Before Tax,26961.0
+ITC,ITC,FY25,2025-03-31,Income Statement,Profit Before Tax,41943.0
+ITC,ITC,FY26,2026-03-31,Income Statement,Profit Before Tax,28033.0
+ITC,ITC,FY21,2021-03-31,Income Statement,Net Profit,13383.0
+ITC,ITC,FY22,2022-03-31,Income Statement,Net Profit,15503.0
+ITC,ITC,FY23,2023-03-31,Income Statement,Net Profit,19477.0
+ITC,ITC,FY24,2024-03-31,Income Statement,Net Profit,20751.0
+ITC,ITC,FY25,2025-03-31,Income Statement,Net Profit,35052.0
+ITC,ITC,FY26,2026-03-31,Income Statement,Net Profit,21018.0
+ITC,ITC,FY21,2021-03-31,Income Statement,EPS,10.69
+ITC,ITC,FY22,2022-03-31,Income Statement,EPS,12.37
+ITC,ITC,FY23,2023-03-31,Income Statement,EPS,15.44
+ITC,ITC,FY24,2024-03-31,Income Statement,EPS,16.39
+ITC,ITC,FY25,2025-03-31,Income Statement,EPS,27.77
+ITC,ITC,FY26,2026-03-31,Income Statement,EPS,16.51
+ITC,ITC,FY21,2021-03-31,Balance Sheet,Equity Capital,1231.0
+ITC,ITC,FY22,2022-03-31,Balance Sheet,Equity Capital,1232.0
+ITC,ITC,FY23,2023-03-31,Balance Sheet,Equity Capital,1243.0
+ITC,ITC,FY24,2024-03-31,Balance Sheet,Equity Capital,1248.0
+ITC,ITC,FY25,2025-03-31,Balance Sheet,Equity Capital,1251.0
+ITC,ITC,FY26,2026-03-31,Balance Sheet,Equity Capital,1253.0
+ITC,ITC,FY21,2021-03-31,Balance Sheet,Reserves,59116.0
+ITC,ITC,FY22,2022-03-31,Balance Sheet,Reserves,61223.0
+ITC,ITC,FY23,2023-03-31,Balance Sheet,Reserves,67912.0
+ITC,ITC,FY24,2024-03-31,Balance Sheet,Reserves,73259.0
+ITC,ITC,FY25,2025-03-31,Balance Sheet,Reserves,68779.0
+ITC,ITC,FY26,2026-03-31,Balance Sheet,Reserves,71254.0
+ITC,ITC,FY21,2021-03-31,Balance Sheet,Borrowings,271.0
+ITC,ITC,FY22,2022-03-31,Balance Sheet,Borrowings,249.0
+ITC,ITC,FY23,2023-03-31,Balance Sheet,Borrowings,306.0
+ITC,ITC,FY24,2024-03-31,Balance Sheet,Borrowings,303.0
+ITC,ITC,FY25,2025-03-31,Balance Sheet,Borrowings,285.0
+ITC,ITC,FY26,2026-03-31,Balance Sheet,Borrowings,2399.0
+ITC,ITC,FY21,2021-03-31,Balance Sheet,Other Liabilities,13143.0
+ITC,ITC,FY22,2022-03-31,Balance Sheet,Other Liabilities,14491.0
+ITC,ITC,FY23,2023-03-31,Balance Sheet,Other Liabilities,16370.0
+ITC,ITC,FY24,2024-03-31,Balance Sheet,Other Liabilities,16944.0
+ITC,ITC,FY25,2025-03-31,Balance Sheet,Other Liabilities,17688.0
+ITC,ITC,FY26,2026-03-31,Balance Sheet,Other Liabilities,18731.0
+ITC,ITC,FY21,2021-03-31,Balance Sheet,Total Liabilities,73761.0
+ITC,ITC,FY22,2022-03-31,Balance Sheet,Total Liabilities,77196.0
+ITC,ITC,FY23,2023-03-31,Balance Sheet,Total Liabilities,85831.0
+ITC,ITC,FY24,2024-03-31,Balance Sheet,Total Liabilities,91754.0
+ITC,ITC,FY25,2025-03-31,Balance Sheet,Total Liabilities,88003.0
+ITC,ITC,FY26,2026-03-31,Balance Sheet,Total Liabilities,93637.0
+ITC,ITC,FY21,2021-03-31,Balance Sheet,Fixed Assets,23298.0
+ITC,ITC,FY22,2022-03-31,Balance Sheet,Fixed Assets,24232.0
+ITC,ITC,FY23,2023-03-31,Balance Sheet,Fixed Assets,25851.0
+ITC,ITC,FY24,2024-03-31,Balance Sheet,Fixed Assets,27820.0
+ITC,ITC,FY25,2025-03-31,Balance Sheet,Fixed Assets,21955.0
+ITC,ITC,FY26,2026-03-31,Balance Sheet,Fixed Assets,22443.0
+ITC,ITC,FY21,2021-03-31,Balance Sheet,CWIP,4011.0
+ITC,ITC,FY22,2022-03-31,Balance Sheet,CWIP,3226.0
+ITC,ITC,FY23,2023-03-31,Balance Sheet,CWIP,3003.0
+ITC,ITC,FY24,2024-03-31,Balance Sheet,CWIP,2861.0
+ITC,ITC,FY25,2025-03-31,Balance Sheet,CWIP,1091.0
+ITC,ITC,FY26,2026-03-31,Balance Sheet,CWIP,1602.0
+ITC,ITC,FY21,2021-03-31,Balance Sheet,Investments,24871.0
+ITC,ITC,FY22,2022-03-31,Balance Sheet,Investments,24841.0
+ITC,ITC,FY23,2023-03-31,Balance Sheet,Investments,29415.0
+ITC,ITC,FY24,2024-03-31,Balance Sheet,Investments,31114.0
+ITC,ITC,FY25,2025-03-31,Balance Sheet,Investments,34720.0
+ITC,ITC,FY26,2026-03-31,Balance Sheet,Investments,38128.0
+ITC,ITC,FY21,2021-03-31,Balance Sheet,Other Assets,21580.0
+ITC,ITC,FY22,2022-03-31,Balance Sheet,Other Assets,24898.0
+ITC,ITC,FY23,2023-03-31,Balance Sheet,Other Assets,27561.0
+ITC,ITC,FY24,2024-03-31,Balance Sheet,Other Assets,29959.0
+ITC,ITC,FY25,2025-03-31,Balance Sheet,Other Assets,30237.0
+ITC,ITC,FY26,2026-03-31,Balance Sheet,Other Assets,31464.0
+ITC,ITC,FY21,2021-03-31,Balance Sheet,Shareholders' Equity,60347.0
+ITC,ITC,FY22,2022-03-31,Balance Sheet,Shareholders' Equity,62455.0
+ITC,ITC,FY23,2023-03-31,Balance Sheet,Shareholders' Equity,69155.0
+ITC,ITC,FY24,2024-03-31,Balance Sheet,Shareholders' Equity,74507.0
+ITC,ITC,FY25,2025-03-31,Balance Sheet,Shareholders' Equity,70030.0
+ITC,ITC,FY26,2026-03-31,Balance Sheet,Shareholders' Equity,72507.0
+ITC,ITC,FY21,2021-03-31,Balance Sheet,Capital Employed,60618.0
+ITC,ITC,FY22,2022-03-31,Balance Sheet,Capital Employed,62704.0
+ITC,ITC,FY23,2023-03-31,Balance Sheet,Capital Employed,69461.0
+ITC,ITC,FY24,2024-03-31,Balance Sheet,Capital Employed,74810.0
+ITC,ITC,FY25,2025-03-31,Balance Sheet,Capital Employed,70315.0
+ITC,ITC,FY26,2026-03-31,Balance Sheet,Capital Employed,74906.0
+ITC,ITC,FY21,2021-03-31,Income Statement,EBIT,17996.0
+ITC,ITC,FY22,2022-03-31,Income Statement,EBIT,20800.0
+ITC,ITC,FY23,2023-03-31,Income Statement,EBIT,25993.0
+ITC,ITC,FY24,2024-03-31,Income Statement,EBIT,27000.0
+ITC,ITC,FY25,2025-03-31,Income Statement,EBIT,41988.0
+ITC,ITC,FY26,2026-03-31,Income Statement,EBIT,28118.0
+ITC,ITC,FY21,2021-03-31,Cash Flow,Cash from Operations,12527.0
+ITC,ITC,FY22,2022-03-31,Cash Flow,Cash from Operations,15776.0
+ITC,ITC,FY23,2023-03-31,Cash Flow,Cash from Operations,18878.0
+ITC,ITC,FY24,2024-03-31,Cash Flow,Cash from Operations,17179.0
+ITC,ITC,FY25,2025-03-31,Cash Flow,Cash from Operations,17627.0
+ITC,ITC,FY26,2026-03-31,Cash Flow,Cash from Operations,18464.0
+ITC,ITC,FY21,2021-03-31,Cash Flow,Cash from Investing,5740.0
+ITC,ITC,FY22,2022-03-31,Cash Flow,Cash from Investing,-2238.0
+ITC,ITC,FY23,2023-03-31,Cash Flow,Cash from Investing,-5732.0
+ITC,ITC,FY24,2024-03-31,Cash Flow,Cash from Investing,1563.0
+ITC,ITC,FY25,2025-03-31,Cash Flow,Cash from Investing,-564.0
+ITC,ITC,FY26,2026-03-31,Cash Flow,Cash from Investing,-2321.0
+ITC,ITC,FY21,2021-03-31,Cash Flow,Cash from Financing,-18634.0
+ITC,ITC,FY22,2022-03-31,Cash Flow,Cash from Financing,-13580.0
+ITC,ITC,FY23,2023-03-31,Cash Flow,Cash from Financing,-13006.0
+ITC,ITC,FY24,2024-03-31,Cash Flow,Cash from Financing,-18551.0
+ITC,ITC,FY25,2025-03-31,Cash Flow,Cash from Financing,-17037.0
+ITC,ITC,FY26,2026-03-31,Cash Flow,Cash from Financing,-16147.0
+ITC,ITC,FY21,2021-03-31,Cash Flow,Free Cash Flow,10693.0
+ITC,ITC,FY22,2022-03-31,Cash Flow,Free Cash Flow,13767.0
+ITC,ITC,FY23,2023-03-31,Cash Flow,Free Cash Flow,16184.0
+ITC,ITC,FY24,2024-03-31,Cash Flow,Free Cash Flow,13724.0
+ITC,ITC,FY25,2025-03-31,Cash Flow,Free Cash Flow,15524.0
+ITC,ITC,FY26,2026-03-31,Cash Flow,Free Cash Flow,16332.0
+Dabur India,Dabur,FY21,2021-03-31,Income Statement,Sales,9562.0
+Dabur India,Dabur,FY22,2022-03-31,Income Statement,Sales,10889.0
+Dabur India,Dabur,FY23,2023-03-31,Income Statement,Sales,11530.0
+Dabur India,Dabur,FY24,2024-03-31,Income Statement,Sales,12404.0
+Dabur India,Dabur,FY25,2025-03-31,Income Statement,Sales,12563.0
+Dabur India,Dabur,FY26,2026-03-31,Income Statement,Sales,13193.0
+Dabur India,Dabur,FY21,2021-03-31,Income Statement,Expenses,7560.0
+Dabur India,Dabur,FY22,2022-03-31,Income Statement,Expenses,8637.0
+Dabur India,Dabur,FY23,2023-03-31,Income Statement,Expenses,9367.0
+Dabur India,Dabur,FY24,2024-03-31,Income Statement,Expenses,10004.0
+Dabur India,Dabur,FY25,2025-03-31,Income Statement,Expenses,10247.0
+Dabur India,Dabur,FY26,2026-03-31,Income Statement,Expenses,10743.0
+Dabur India,Dabur,FY21,2021-03-31,Income Statement,Operating Profit,2002.0
+Dabur India,Dabur,FY22,2022-03-31,Income Statement,Operating Profit,2252.0
+Dabur India,Dabur,FY23,2023-03-31,Income Statement,Operating Profit,2162.0
+Dabur India,Dabur,FY24,2024-03-31,Income Statement,Operating Profit,2400.0
+Dabur India,Dabur,FY25,2025-03-31,Income Statement,Operating Profit,2316.0
+Dabur India,Dabur,FY26,2026-03-31,Income Statement,Operating Profit,2450.0
+Dabur India,Dabur,FY21,2021-03-31,Income Statement,Other Income,325.0
+Dabur India,Dabur,FY22,2022-03-31,Income Statement,Other Income,308.0
+Dabur India,Dabur,FY23,2023-03-31,Income Statement,Other Income,445.0
+Dabur India,Dabur,FY24,2024-03-31,Income Statement,Other Income,482.0
+Dabur India,Dabur,FY25,2025-03-31,Income Statement,Other Income,551.0
+Dabur India,Dabur,FY26,2026-03-31,Income Statement,Other Income,585.0
+Dabur India,Dabur,FY21,2021-03-31,Income Statement,Interest,31.0
+Dabur India,Dabur,FY22,2022-03-31,Income Statement,Interest,39.0
+Dabur India,Dabur,FY23,2023-03-31,Income Statement,Interest,78.0
+Dabur India,Dabur,FY24,2024-03-31,Income Statement,Interest,124.0
+Dabur India,Dabur,FY25,2025-03-31,Income Statement,Interest,164.0
+Dabur India,Dabur,FY26,2026-03-31,Income Statement,Interest,145.0
+Dabur India,Dabur,FY21,2021-03-31,Income Statement,Depreciation,240.0
+Dabur India,Dabur,FY22,2022-03-31,Income Statement,Depreciation,253.0
+Dabur India,Dabur,FY23,2023-03-31,Income Statement,Depreciation,311.0
+Dabur India,Dabur,FY24,2024-03-31,Income Statement,Depreciation,399.0
+Dabur India,Dabur,FY25,2025-03-31,Income Statement,Depreciation,446.0
+Dabur India,Dabur,FY26,2026-03-31,Income Statement,Depreciation,469.0
+Dabur India,Dabur,FY21,2021-03-31,Income Statement,Profit Before Tax,2056.0
+Dabur India,Dabur,FY22,2022-03-31,Income Statement,Profit Before Tax,2269.0
+Dabur India,Dabur,FY23,2023-03-31,Income Statement,Profit Before Tax,2219.0
+Dabur India,Dabur,FY24,2024-03-31,Income Statement,Profit Before Tax,2359.0
+Dabur India,Dabur,FY25,2025-03-31,Income Statement,Profit Before Tax,2258.0
+Dabur India,Dabur,FY26,2026-03-31,Income Statement,Profit Before Tax,2420.0
+Dabur India,Dabur,FY21,2021-03-31,Income Statement,Net Profit,1695.0
+Dabur India,Dabur,FY22,2022-03-31,Income Statement,Net Profit,1742.0
+Dabur India,Dabur,FY23,2023-03-31,Income Statement,Net Profit,1701.0
+Dabur India,Dabur,FY24,2024-03-31,Income Statement,Net Profit,1811.0
+Dabur India,Dabur,FY25,2025-03-31,Income Statement,Net Profit,1740.0
+Dabur India,Dabur,FY26,2026-03-31,Income Statement,Net Profit,1869.0
+Dabur India,Dabur,FY21,2021-03-31,Income Statement,EPS,9.58
+Dabur India,Dabur,FY22,2022-03-31,Income Statement,EPS,9.84
+Dabur India,Dabur,FY23,2023-03-31,Income Statement,EPS,9.64
+Dabur India,Dabur,FY24,2024-03-31,Income Statement,EPS,10.4
+Dabur India,Dabur,FY25,2025-03-31,Income Statement,EPS,9.97
+Dabur India,Dabur,FY26,2026-03-31,Income Statement,EPS,10.68
+Dabur India,Dabur,FY21,2021-03-31,Balance Sheet,Equity Capital,177.0
+Dabur India,Dabur,FY22,2022-03-31,Balance Sheet,Equity Capital,177.0
+Dabur India,Dabur,FY23,2023-03-31,Balance Sheet,Equity Capital,177.0
+Dabur India,Dabur,FY24,2024-03-31,Balance Sheet,Equity Capital,177.0
+Dabur India,Dabur,FY25,2025-03-31,Balance Sheet,Equity Capital,177.0
+Dabur India,Dabur,FY26,2026-03-31,Balance Sheet,Equity Capital,177.0
+Dabur India,Dabur,FY21,2021-03-31,Balance Sheet,Reserves,7487.0
+Dabur India,Dabur,FY22,2022-03-31,Balance Sheet,Reserves,8205.0
+Dabur India,Dabur,FY23,2023-03-31,Balance Sheet,Reserves,8796.0
+Dabur India,Dabur,FY24,2024-03-31,Balance Sheet,Reserves,9689.0
+Dabur India,Dabur,FY25,2025-03-31,Balance Sheet,Reserves,10623.0
+Dabur India,Dabur,FY26,2026-03-31,Balance Sheet,Reserves,11242.0
+Dabur India,Dabur,FY21,2021-03-31,Balance Sheet,Borrowings,509.0
+Dabur India,Dabur,FY22,2022-03-31,Balance Sheet,Borrowings,1030.0
+Dabur India,Dabur,FY23,2023-03-31,Balance Sheet,Borrowings,1174.0
+Dabur India,Dabur,FY24,2024-03-31,Balance Sheet,Borrowings,1365.0
+Dabur India,Dabur,FY25,2025-03-31,Balance Sheet,Borrowings,950.0
+Dabur India,Dabur,FY26,2026-03-31,Balance Sheet,Borrowings,1287.0
+Dabur India,Dabur,FY21,2021-03-31,Balance Sheet,Other Liabilities,2661.0
+Dabur India,Dabur,FY22,2022-03-31,Balance Sheet,Other Liabilities,2872.0
+Dabur India,Dabur,FY23,2023-03-31,Balance Sheet,Other Liabilities,3505.0
+Dabur India,Dabur,FY24,2024-03-31,Balance Sheet,Other Liabilities,3885.0
+Dabur India,Dabur,FY25,2025-03-31,Balance Sheet,Other Liabilities,4479.0
+Dabur India,Dabur,FY26,2026-03-31,Balance Sheet,Other Liabilities,4773.0
+Dabur India,Dabur,FY21,2021-03-31,Balance Sheet,Total Liabilities,10833.0
+Dabur India,Dabur,FY22,2022-03-31,Balance Sheet,Total Liabilities,12284.0
+Dabur India,Dabur,FY23,2023-03-31,Balance Sheet,Total Liabilities,13652.0
+Dabur India,Dabur,FY24,2024-03-31,Balance Sheet,Total Liabilities,15116.0
+Dabur India,Dabur,FY25,2025-03-31,Balance Sheet,Total Liabilities,16230.0
+Dabur India,Dabur,FY26,2026-03-31,Balance Sheet,Total Liabilities,17480.0
+Dabur India,Dabur,FY21,2021-03-31,Balance Sheet,Fixed Assets,2243.0
+Dabur India,Dabur,FY22,2022-03-31,Balance Sheet,Fixed Assets,2308.0
+Dabur India,Dabur,FY23,2023-03-31,Balance Sheet,Fixed Assets,3579.0
+Dabur India,Dabur,FY24,2024-03-31,Balance Sheet,Fixed Assets,3815.0
+Dabur India,Dabur,FY25,2025-03-31,Balance Sheet,Fixed Assets,3990.0
+Dabur India,Dabur,FY26,2026-03-31,Balance Sheet,Fixed Assets,3938.0
+Dabur India,Dabur,FY21,2021-03-31,Balance Sheet,CWIP,147.0
+Dabur India,Dabur,FY22,2022-03-31,Balance Sheet,CWIP,168.0
+Dabur India,Dabur,FY23,2023-03-31,Balance Sheet,CWIP,175.0
+Dabur India,Dabur,FY24,2024-03-31,Balance Sheet,CWIP,232.0
+Dabur India,Dabur,FY25,2025-03-31,Balance Sheet,CWIP,169.0
+Dabur India,Dabur,FY26,2026-03-31,Balance Sheet,CWIP,139.0
+Dabur India,Dabur,FY21,2021-03-31,Balance Sheet,Investments,4160.0
+Dabur India,Dabur,FY22,2022-03-31,Balance Sheet,Investments,6220.0
+Dabur India,Dabur,FY23,2023-03-31,Balance Sheet,Investments,6265.0
+Dabur India,Dabur,FY24,2024-03-31,Balance Sheet,Investments,6933.0
+Dabur India,Dabur,FY25,2025-03-31,Balance Sheet,Investments,7468.0
+Dabur India,Dabur,FY26,2026-03-31,Balance Sheet,Investments,8947.0
+Dabur India,Dabur,FY21,2021-03-31,Balance Sheet,Other Assets,4283.0
+Dabur India,Dabur,FY22,2022-03-31,Balance Sheet,Other Assets,3589.0
+Dabur India,Dabur,FY23,2023-03-31,Balance Sheet,Other Assets,3633.0
+Dabur India,Dabur,FY24,2024-03-31,Balance Sheet,Other Assets,4136.0
+Dabur India,Dabur,FY25,2025-03-31,Balance Sheet,Other Assets,4603.0
+Dabur India,Dabur,FY26,2026-03-31,Balance Sheet,Other Assets,4456.0
+Dabur India,Dabur,FY21,2021-03-31,Balance Sheet,Shareholders' Equity,7664.0
+Dabur India,Dabur,FY22,2022-03-31,Balance Sheet,Shareholders' Equity,8382.0
+Dabur India,Dabur,FY23,2023-03-31,Balance Sheet,Shareholders' Equity,8973.0
+Dabur India,Dabur,FY24,2024-03-31,Balance Sheet,Shareholders' Equity,9866.0
+Dabur India,Dabur,FY25,2025-03-31,Balance Sheet,Shareholders' Equity,10800.0
+Dabur India,Dabur,FY26,2026-03-31,Balance Sheet,Shareholders' Equity,11419.0
+Dabur India,Dabur,FY21,2021-03-31,Balance Sheet,Capital Employed,8173.0
+Dabur India,Dabur,FY22,2022-03-31,Balance Sheet,Capital Employed,9412.0
+Dabur India,Dabur,FY23,2023-03-31,Balance Sheet,Capital Employed,10147.0
+Dabur India,Dabur,FY24,2024-03-31,Balance Sheet,Capital Employed,11231.0
+Dabur India,Dabur,FY25,2025-03-31,Balance Sheet,Capital Employed,11750.0
+Dabur India,Dabur,FY26,2026-03-31,Balance Sheet,Capital Employed,12706.0
+Dabur India,Dabur,FY21,2021-03-31,Income Statement,EBIT,2087.0
+Dabur India,Dabur,FY22,2022-03-31,Income Statement,EBIT,2308.0
+Dabur India,Dabur,FY23,2023-03-31,Income Statement,EBIT,2297.0
+Dabur India,Dabur,FY24,2024-03-31,Income Statement,EBIT,2483.0
+Dabur India,Dabur,FY25,2025-03-31,Income Statement,EBIT,2422.0
+Dabur India,Dabur,FY26,2026-03-31,Income Statement,EBIT,2565.0
+Dabur India,Dabur,FY21,2021-03-31,Cash Flow,Cash from Operations,2115.0
+Dabur India,Dabur,FY22,2022-03-31,Cash Flow,Cash from Operations,1802.0
+Dabur India,Dabur,FY23,2023-03-31,Cash Flow,Cash from Operations,1488.0
+Dabur India,Dabur,FY24,2024-03-31,Cash Flow,Cash from Operations,2013.0
+Dabur India,Dabur,FY25,2025-03-31,Cash Flow,Cash from Operations,1987.0
+Dabur India,Dabur,FY26,2026-03-31,Cash Flow,Cash from Operations,2579.0
+Dabur India,Dabur,FY21,2021-03-31,Cash Flow,Cash from Investing,-1404.0
+Dabur India,Dabur,FY22,2022-03-31,Cash Flow,Cash from Investing,-1273.0
+Dabur India,Dabur,FY23,2023-03-31,Cash Flow,Cash from Investing,-583.0
+Dabur India,Dabur,FY24,2024-03-31,Cash Flow,Cash from Investing,-971.0
+Dabur India,Dabur,FY25,2025-03-31,Cash Flow,Cash from Investing,-448.0
+Dabur India,Dabur,FY26,2026-03-31,Cash Flow,Cash from Investing,-1279.0
+Dabur India,Dabur,FY21,2021-03-31,Cash Flow,Cash from Financing,-613.0
+Dabur India,Dabur,FY22,2022-03-31,Cash Flow,Cash from Financing,-490.0
+Dabur India,Dabur,FY23,2023-03-31,Cash Flow,Cash from Financing,-1035.0
+Dabur India,Dabur,FY24,2024-03-31,Cash Flow,Cash from Financing,-1161.0
+Dabur India,Dabur,FY25,2025-03-31,Cash Flow,Cash from Financing,-1405.0
+Dabur India,Dabur,FY26,2026-03-31,Cash Flow,Cash from Financing,-1236.0
+Dabur India,Dabur,FY21,2021-03-31,Cash Flow,Free Cash Flow,1808.0
+Dabur India,Dabur,FY22,2022-03-31,Cash Flow,Free Cash Flow,1433.0
+Dabur India,Dabur,FY23,2023-03-31,Cash Flow,Free Cash Flow,1003.0
+Dabur India,Dabur,FY24,2024-03-31,Cash Flow,Free Cash Flow,1453.0
+Dabur India,Dabur,FY25,2025-03-31,Cash Flow,Free Cash Flow,1448.0
+Dabur India,Dabur,FY26,2026-03-31,Cash Flow,Free Cash Flow,2180.0
+Britannia Industries,Britannia,FY21,2021-03-31,Income Statement,Sales,13136.0
+Britannia Industries,Britannia,FY22,2022-03-31,Income Statement,Sales,14136.0
+Britannia Industries,Britannia,FY23,2023-03-31,Income Statement,Sales,16301.0
+Britannia Industries,Britannia,FY24,2024-03-31,Income Statement,Sales,16769.0
+Britannia Industries,Britannia,FY25,2025-03-31,Income Statement,Sales,17943.0
+Britannia Industries,Britannia,FY26,2026-03-31,Income Statement,Sales,19152.0
+Britannia Industries,Britannia,FY21,2021-03-31,Income Statement,Expenses,10627.0
+Britannia Industries,Britannia,FY22,2022-03-31,Income Statement,Expenses,11935.0
+Britannia Industries,Britannia,FY23,2023-03-31,Income Statement,Expenses,13470.0
+Britannia Industries,Britannia,FY24,2024-03-31,Income Statement,Expenses,13603.0
+Britannia Industries,Britannia,FY25,2025-03-31,Income Statement,Expenses,14766.0
+Britannia Industries,Britannia,FY26,2026-03-31,Income Statement,Expenses,15637.0
+Britannia Industries,Britannia,FY21,2021-03-31,Income Statement,Operating Profit,2509.0
+Britannia Industries,Britannia,FY22,2022-03-31,Income Statement,Operating Profit,2201.0
+Britannia Industries,Britannia,FY23,2023-03-31,Income Statement,Operating Profit,2831.0
+Britannia Industries,Britannia,FY24,2024-03-31,Income Statement,Operating Profit,3167.0
+Britannia Industries,Britannia,FY25,2025-03-31,Income Statement,Operating Profit,3176.0
+Britannia Industries,Britannia,FY26,2026-03-31,Income Statement,Operating Profit,3514.0
+Britannia Industries,Britannia,FY21,2021-03-31,Income Statement,Other Income,313.0
+Britannia Industries,Britannia,FY22,2022-03-31,Income Statement,Other Income,222.0
+Britannia Industries,Britannia,FY23,2023-03-31,Income Statement,Other Income,597.0
+Britannia Industries,Britannia,FY24,2024-03-31,Income Statement,Other Income,211.0
+Britannia Industries,Britannia,FY25,2025-03-31,Income Statement,Other Income,202.0
+Britannia Industries,Britannia,FY26,2026-03-31,Income Statement,Other Income,224.0
+Britannia Industries,Britannia,FY21,2021-03-31,Income Statement,Interest,111.0
+Britannia Industries,Britannia,FY22,2022-03-31,Income Statement,Interest,144.0
+Britannia Industries,Britannia,FY23,2023-03-31,Income Statement,Interest,169.0
+Britannia Industries,Britannia,FY24,2024-03-31,Income Statement,Interest,164.0
+Britannia Industries,Britannia,FY25,2025-03-31,Income Statement,Interest,139.0
+Britannia Industries,Britannia,FY26,2026-03-31,Income Statement,Interest,113.0
+Britannia Industries,Britannia,FY21,2021-03-31,Income Statement,Depreciation,198.0
+Britannia Industries,Britannia,FY22,2022-03-31,Income Statement,Depreciation,201.0
+Britannia Industries,Britannia,FY23,2023-03-31,Income Statement,Depreciation,226.0
+Britannia Industries,Britannia,FY24,2024-03-31,Income Statement,Depreciation,300.0
+Britannia Industries,Britannia,FY25,2025-03-31,Income Statement,Depreciation,313.0
+Britannia Industries,Britannia,FY26,2026-03-31,Income Statement,Depreciation,337.0
+Britannia Industries,Britannia,FY21,2021-03-31,Income Statement,Profit Before Tax,2514.0
+Britannia Industries,Britannia,FY22,2022-03-31,Income Statement,Profit Before Tax,2078.0
+Britannia Industries,Britannia,FY23,2023-03-31,Income Statement,Profit Before Tax,3033.0
+Britannia Industries,Britannia,FY24,2024-03-31,Income Statement,Profit Before Tax,2913.0
+Britannia Industries,Britannia,FY25,2025-03-31,Income Statement,Profit Before Tax,2927.0
+Britannia Industries,Britannia,FY26,2026-03-31,Income Statement,Profit Before Tax,3289.0
+Britannia Industries,Britannia,FY21,2021-03-31,Income Statement,Net Profit,1851.0
+Britannia Industries,Britannia,FY22,2022-03-31,Income Statement,Net Profit,1516.0
+Britannia Industries,Britannia,FY23,2023-03-31,Income Statement,Net Profit,2316.0
+Britannia Industries,Britannia,FY24,2024-03-31,Income Statement,Net Profit,2134.0
+Britannia Industries,Britannia,FY25,2025-03-31,Income Statement,Net Profit,2178.0
+Britannia Industries,Britannia,FY26,2026-03-31,Income Statement,Net Profit,2537.0
+Britannia Industries,Britannia,FY21,2021-03-31,Income Statement,EPS,77.38
+Britannia Industries,Britannia,FY22,2022-03-31,Income Statement,EPS,63.31
+Britannia Industries,Britannia,FY23,2023-03-31,Income Statement,EPS,96.39
+Britannia Industries,Britannia,FY24,2024-03-31,Income Statement,EPS,88.84
+Britannia Industries,Britannia,FY25,2025-03-31,Income Statement,EPS,90.45
+Britannia Industries,Britannia,FY26,2026-03-31,Income Statement,EPS,105.18
+Britannia Industries,Britannia,FY21,2021-03-31,Balance Sheet,Equity Capital,24.0
+Britannia Industries,Britannia,FY22,2022-03-31,Balance Sheet,Equity Capital,24.0
+Britannia Industries,Britannia,FY23,2023-03-31,Balance Sheet,Equity Capital,24.0
+Britannia Industries,Britannia,FY24,2024-03-31,Balance Sheet,Equity Capital,24.0
+Britannia Industries,Britannia,FY25,2025-03-31,Balance Sheet,Equity Capital,24.0
+Britannia Industries,Britannia,FY26,2026-03-31,Balance Sheet,Equity Capital,24.0
+Britannia Industries,Britannia,FY21,2021-03-31,Balance Sheet,Reserves,3524.0
+Britannia Industries,Britannia,FY22,2022-03-31,Balance Sheet,Reserves,2534.0
+Britannia Industries,Britannia,FY23,2023-03-31,Balance Sheet,Reserves,3510.0
+Britannia Industries,Britannia,FY24,2024-03-31,Balance Sheet,Reserves,3917.0
+Britannia Industries,Britannia,FY25,2025-03-31,Balance Sheet,Reserves,4332.0
+Britannia Industries,Britannia,FY26,2026-03-31,Balance Sheet,Reserves,5082.0
+Britannia Industries,Britannia,FY21,2021-03-31,Balance Sheet,Borrowings,2107.0
+Britannia Industries,Britannia,FY22,2022-03-31,Balance Sheet,Borrowings,2481.0
+Britannia Industries,Britannia,FY23,2023-03-31,Balance Sheet,Borrowings,2997.0
+Britannia Industries,Britannia,FY24,2024-03-31,Balance Sheet,Borrowings,2065.0
+Britannia Industries,Britannia,FY25,2025-03-31,Balance Sheet,Borrowings,1247.0
+Britannia Industries,Britannia,FY26,2026-03-31,Balance Sheet,Borrowings,1380.0
+Britannia Industries,Britannia,FY21,2021-03-31,Balance Sheet,Other Liabilities,2345.0
+Britannia Industries,Britannia,FY22,2022-03-31,Balance Sheet,Other Liabilities,2487.0
+Britannia Industries,Britannia,FY23,2023-03-31,Balance Sheet,Other Liabilities,2819.0
+Britannia Industries,Britannia,FY24,2024-03-31,Balance Sheet,Other Liabilities,3065.0
+Britannia Industries,Britannia,FY25,2025-03-31,Balance Sheet,Other Liabilities,3235.0
+Britannia Industries,Britannia,FY26,2026-03-31,Balance Sheet,Other Liabilities,3243.0
+Britannia Industries,Britannia,FY21,2021-03-31,Balance Sheet,Total Liabilities,8000.0
+Britannia Industries,Britannia,FY22,2022-03-31,Balance Sheet,Total Liabilities,7527.0
+Britannia Industries,Britannia,FY23,2023-03-31,Balance Sheet,Total Liabilities,9351.0
+Britannia Industries,Britannia,FY24,2024-03-31,Balance Sheet,Total Liabilities,9072.0
+Britannia Industries,Britannia,FY25,2025-03-31,Balance Sheet,Total Liabilities,8837.0
+Britannia Industries,Britannia,FY26,2026-03-31,Balance Sheet,Total Liabilities,9730.0
+Britannia Industries,Britannia,FY21,2021-03-31,Balance Sheet,Fixed Assets,1793.0
+Britannia Industries,Britannia,FY22,2022-03-31,Balance Sheet,Fixed Assets,1753.0
+Britannia Industries,Britannia,FY23,2023-03-31,Balance Sheet,Fixed Assets,2655.0
+Britannia Industries,Britannia,FY24,2024-03-31,Balance Sheet,Fixed Assets,2771.0
+Britannia Industries,Britannia,FY25,2025-03-31,Balance Sheet,Fixed Assets,2904.0
+Britannia Industries,Britannia,FY26,2026-03-31,Balance Sheet,Fixed Assets,2850.0
+Britannia Industries,Britannia,FY21,2021-03-31,Balance Sheet,CWIP,117.0
+Britannia Industries,Britannia,FY22,2022-03-31,Balance Sheet,CWIP,536.0
+Britannia Industries,Britannia,FY23,2023-03-31,Balance Sheet,CWIP,105.0
+Britannia Industries,Britannia,FY24,2024-03-31,Balance Sheet,CWIP,188.0
+Britannia Industries,Britannia,FY25,2025-03-31,Balance Sheet,CWIP,89.0
+Britannia Industries,Britannia,FY26,2026-03-31,Balance Sheet,CWIP,39.0
+Britannia Industries,Britannia,FY21,2021-03-31,Balance Sheet,Investments,2781.0
+Britannia Industries,Britannia,FY22,2022-03-31,Balance Sheet,Investments,1762.0
+Britannia Industries,Britannia,FY23,2023-03-31,Balance Sheet,Investments,3324.0
+Britannia Industries,Britannia,FY24,2024-03-31,Balance Sheet,Investments,2767.0
+Britannia Industries,Britannia,FY25,2025-03-31,Balance Sheet,Investments,2865.0
+Britannia Industries,Britannia,FY26,2026-03-31,Balance Sheet,Investments,3610.0
+Britannia Industries,Britannia,FY21,2021-03-31,Balance Sheet,Other Assets,3310.0
+Britannia Industries,Britannia,FY22,2022-03-31,Balance Sheet,Other Assets,3475.0
+Britannia Industries,Britannia,FY23,2023-03-31,Balance Sheet,Other Assets,3266.0
+Britannia Industries,Britannia,FY24,2024-03-31,Balance Sheet,Other Assets,3346.0
+Britannia Industries,Britannia,FY25,2025-03-31,Balance Sheet,Other Assets,2978.0
+Britannia Industries,Britannia,FY26,2026-03-31,Balance Sheet,Other Assets,3232.0
+Britannia Industries,Britannia,FY21,2021-03-31,Balance Sheet,Shareholders' Equity,3548.0
+Britannia Industries,Britannia,FY22,2022-03-31,Balance Sheet,Shareholders' Equity,2558.0
+Britannia Industries,Britannia,FY23,2023-03-31,Balance Sheet,Shareholders' Equity,3534.0
+Britannia Industries,Britannia,FY24,2024-03-31,Balance Sheet,Shareholders' Equity,3941.0
+Britannia Industries,Britannia,FY25,2025-03-31,Balance Sheet,Shareholders' Equity,4356.0
+Britannia Industries,Britannia,FY26,2026-03-31,Balance Sheet,Shareholders' Equity,5106.0
+Britannia Industries,Britannia,FY21,2021-03-31,Balance Sheet,Capital Employed,5655.0
+Britannia Industries,Britannia,FY22,2022-03-31,Balance Sheet,Capital Employed,5039.0
+Britannia Industries,Britannia,FY23,2023-03-31,Balance Sheet,Capital Employed,6531.0
+Britannia Industries,Britannia,FY24,2024-03-31,Balance Sheet,Capital Employed,6006.0
+Britannia Industries,Britannia,FY25,2025-03-31,Balance Sheet,Capital Employed,5603.0
+Britannia Industries,Britannia,FY26,2026-03-31,Balance Sheet,Capital Employed,6486.0
+Britannia Industries,Britannia,FY21,2021-03-31,Income Statement,EBIT,2625.0
+Britannia Industries,Britannia,FY22,2022-03-31,Income Statement,EBIT,2222.0
+Britannia Industries,Britannia,FY23,2023-03-31,Income Statement,EBIT,3202.0
+Britannia Industries,Britannia,FY24,2024-03-31,Income Statement,EBIT,3077.0
+Britannia Industries,Britannia,FY25,2025-03-31,Income Statement,EBIT,3066.0
+Britannia Industries,Britannia,FY26,2026-03-31,Income Statement,EBIT,3402.0
+Britannia Industries,Britannia,FY21,2021-03-31,Cash Flow,Cash from Operations,1851.0
+Britannia Industries,Britannia,FY22,2022-03-31,Cash Flow,Cash from Operations,1300.0
+Britannia Industries,Britannia,FY23,2023-03-31,Cash Flow,Cash from Operations,2526.0
+Britannia Industries,Britannia,FY24,2024-03-31,Cash Flow,Cash from Operations,2573.0
+Britannia Industries,Britannia,FY25,2025-03-31,Cash Flow,Cash from Operations,2491.0
+Britannia Industries,Britannia,FY26,2026-03-31,Cash Flow,Cash from Operations,2612.0
+Britannia Industries,Britannia,FY21,2021-03-31,Cash Flow,Cash from Investing,459.0
+Britannia Industries,Britannia,FY22,2022-03-31,Cash Flow,Cash from Investing,914.0
+Britannia Industries,Britannia,FY23,2023-03-31,Cash Flow,Cash from Investing,-1507.0
+Britannia Industries,Britannia,FY24,2024-03-31,Cash Flow,Cash from Investing,485.0
+Britannia Industries,Britannia,FY25,2025-03-31,Cash Flow,Cash from Investing,69.0
+Britannia Industries,Britannia,FY26,2026-03-31,Cash Flow,Cash from Investing,-741.0
+Britannia Industries,Britannia,FY21,2021-03-31,Cash Flow,Cash from Financing,-2244.0
+Britannia Industries,Britannia,FY22,2022-03-31,Cash Flow,Cash from Financing,-2246.0
+Britannia Industries,Britannia,FY23,2023-03-31,Cash Flow,Cash from Financing,-1028.0
+Britannia Industries,Britannia,FY24,2024-03-31,Cash Flow,Cash from Financing,-2839.0
+Britannia Industries,Britannia,FY25,2025-03-31,Cash Flow,Cash from Financing,-2754.0
+Britannia Industries,Britannia,FY26,2026-03-31,Cash Flow,Cash from Financing,-1783.0
+Britannia Industries,Britannia,FY21,2021-03-31,Cash Flow,Free Cash Flow,1611.0
+Britannia Industries,Britannia,FY22,2022-03-31,Cash Flow,Free Cash Flow,752.0
+Britannia Industries,Britannia,FY23,2023-03-31,Cash Flow,Free Cash Flow,1893.0
+Britannia Industries,Britannia,FY24,2024-03-31,Cash Flow,Free Cash Flow,2085.0
+Britannia Industries,Britannia,FY25,2025-03-31,Cash Flow,Free Cash Flow,2120.0
+Britannia Industries,Britannia,FY26,2026-03-31,Cash Flow,Free Cash Flow,2408.0
+Marico,Marico,FY21,2021-03-31,Income Statement,Sales,8048.0
+Marico,Marico,FY22,2022-03-31,Income Statement,Sales,9512.0
+Marico,Marico,FY23,2023-03-31,Income Statement,Sales,9764.0
+Marico,Marico,FY24,2024-03-31,Income Statement,Sales,9653.0
+Marico,Marico,FY25,2025-03-31,Income Statement,Sales,10831.0
+Marico,Marico,FY26,2026-03-31,Income Statement,Sales,13611.0
+Marico,Marico,FY21,2021-03-31,Income Statement,Expenses,6459.0
+Marico,Marico,FY22,2022-03-31,Income Statement,Expenses,7831.0
+Marico,Marico,FY23,2023-03-31,Income Statement,Expenses,7954.0
+Marico,Marico,FY24,2024-03-31,Income Statement,Expenses,7627.0
+Marico,Marico,FY25,2025-03-31,Income Statement,Expenses,8692.0
+Marico,Marico,FY26,2026-03-31,Income Statement,Expenses,11283.0
+Marico,Marico,FY21,2021-03-31,Income Statement,Operating Profit,1589.0
+Marico,Marico,FY22,2022-03-31,Income Statement,Operating Profit,1681.0
+Marico,Marico,FY23,2023-03-31,Income Statement,Operating Profit,1810.0
+Marico,Marico,FY24,2024-03-31,Income Statement,Operating Profit,2026.0
+Marico,Marico,FY25,2025-03-31,Income Statement,Operating Profit,2139.0
+Marico,Marico,FY26,2026-03-31,Income Statement,Operating Profit,2328.0
+Marico,Marico,FY21,2021-03-31,Income Statement,Other Income,107.0
+Marico,Marico,FY22,2022-03-31,Income Statement,Other Income,98.0
+Marico,Marico,FY23,2023-03-31,Income Statement,Other Income,144.0
+Marico,Marico,FY24,2024-03-31,Income Statement,Other Income,142.0
+Marico,Marico,FY25,2025-03-31,Income Statement,Other Income,208.0
+Marico,Marico,FY26,2026-03-31,Income Statement,Other Income,204.0
+Marico,Marico,FY21,2021-03-31,Income Statement,Interest,34.0
+Marico,Marico,FY22,2022-03-31,Income Statement,Interest,39.0
+Marico,Marico,FY23,2023-03-31,Income Statement,Interest,56.0
+Marico,Marico,FY24,2024-03-31,Income Statement,Interest,73.0
+Marico,Marico,FY25,2025-03-31,Income Statement,Interest,53.0
+Marico,Marico,FY26,2026-03-31,Income Statement,Interest,53.0
+Marico,Marico,FY21,2021-03-31,Income Statement,Depreciation,139.0
+Marico,Marico,FY22,2022-03-31,Income Statement,Depreciation,139.0
+Marico,Marico,FY23,2023-03-31,Income Statement,Depreciation,155.0
+Marico,Marico,FY24,2024-03-31,Income Statement,Depreciation,158.0
+Marico,Marico,FY25,2025-03-31,Income Statement,Depreciation,178.0
+Marico,Marico,FY26,2026-03-31,Income Statement,Depreciation,202.0
+Marico,Marico,FY21,2021-03-31,Income Statement,Profit Before Tax,1523.0
+Marico,Marico,FY22,2022-03-31,Income Statement,Profit Before Tax,1601.0
+Marico,Marico,FY23,2023-03-31,Income Statement,Profit Before Tax,1743.0
+Marico,Marico,FY24,2024-03-31,Income Statement,Profit Before Tax,1937.0
+Marico,Marico,FY25,2025-03-31,Income Statement,Profit Before Tax,2116.0
+Marico,Marico,FY26,2026-03-31,Income Statement,Profit Before Tax,2277.0
+Marico,Marico,FY21,2021-03-31,Income Statement,Net Profit,1199.0
+Marico,Marico,FY22,2022-03-31,Income Statement,Net Profit,1255.0
+Marico,Marico,FY23,2023-03-31,Income Statement,Net Profit,1322.0
+Marico,Marico,FY24,2024-03-31,Income Statement,Net Profit,1502.0
+Marico,Marico,FY25,2025-03-31,Income Statement,Net Profit,1658.0
+Marico,Marico,FY26,2026-03-31,Income Statement,Net Profit,1813.0
+Marico,Marico,FY21,2021-03-31,Income Statement,EPS,9.08
+Marico,Marico,FY22,2022-03-31,Income Statement,EPS,9.48
+Marico,Marico,FY23,2023-03-31,Income Statement,EPS,10.07
+Marico,Marico,FY24,2024-03-31,Income Statement,EPS,11.44
+Marico,Marico,FY25,2025-03-31,Income Statement,EPS,12.57
+Marico,Marico,FY26,2026-03-31,Income Statement,EPS,13.57
+Marico,Marico,FY21,2021-03-31,Balance Sheet,Equity Capital,129.0
+Marico,Marico,FY22,2022-03-31,Balance Sheet,Equity Capital,129.0
+Marico,Marico,FY23,2023-03-31,Balance Sheet,Equity Capital,129.0
+Marico,Marico,FY24,2024-03-31,Balance Sheet,Equity Capital,129.0
+Marico,Marico,FY25,2025-03-31,Balance Sheet,Equity Capital,129.0
+Marico,Marico,FY26,2026-03-31,Balance Sheet,Equity Capital,130.0
+Marico,Marico,FY21,2021-03-31,Balance Sheet,Reserves,3111.0
+Marico,Marico,FY22,2022-03-31,Balance Sheet,Reserves,3219.0
+Marico,Marico,FY23,2023-03-31,Balance Sheet,Reserves,3670.0
+Marico,Marico,FY24,2024-03-31,Balance Sheet,Reserves,3703.0
+Marico,Marico,FY25,2025-03-31,Balance Sheet,Reserves,3846.0
+Marico,Marico,FY26,2026-03-31,Balance Sheet,Reserves,4080.0
+Marico,Marico,FY21,2021-03-31,Balance Sheet,Borrowings,511.0
+Marico,Marico,FY22,2022-03-31,Balance Sheet,Borrowings,479.0
+Marico,Marico,FY23,2023-03-31,Balance Sheet,Borrowings,608.0
+Marico,Marico,FY24,2024-03-31,Balance Sheet,Borrowings,528.0
+Marico,Marico,FY25,2025-03-31,Balance Sheet,Borrowings,554.0
+Marico,Marico,FY26,2026-03-31,Balance Sheet,Borrowings,557.0
+Marico,Marico,FY21,2021-03-31,Balance Sheet,Other Liabilities,1675.0
+Marico,Marico,FY22,2022-03-31,Balance Sheet,Other Liabilities,1850.0
+Marico,Marico,FY23,2023-03-31,Balance Sheet,Other Liabilities,2393.0
+Marico,Marico,FY24,2024-03-31,Balance Sheet,Other Liabilities,2993.0
+Marico,Marico,FY25,2025-03-31,Balance Sheet,Other Liabilities,3746.0
+Marico,Marico,FY26,2026-03-31,Balance Sheet,Other Liabilities,5183.0
+Marico,Marico,FY21,2021-03-31,Balance Sheet,Total Liabilities,5426.0
+Marico,Marico,FY22,2022-03-31,Balance Sheet,Total Liabilities,5677.0
+Marico,Marico,FY23,2023-03-31,Balance Sheet,Total Liabilities,6800.0
+Marico,Marico,FY24,2024-03-31,Balance Sheet,Total Liabilities,7353.0
+Marico,Marico,FY25,2025-03-31,Balance Sheet,Total Liabilities,8275.0
+Marico,Marico,FY26,2026-03-31,Balance Sheet,Total Liabilities,9950.0
+Marico,Marico,FY21,2021-03-31,Balance Sheet,Fixed Assets,1612.0
+Marico,Marico,FY22,2022-03-31,Balance Sheet,Fixed Assets,1760.0
+Marico,Marico,FY23,2023-03-31,Balance Sheet,Fixed Assets,2246.0
+Marico,Marico,FY24,2024-03-31,Balance Sheet,Fixed Assets,2724.0
+Marico,Marico,FY25,2025-03-31,Balance Sheet,Fixed Assets,2758.0
+Marico,Marico,FY26,2026-03-31,Balance Sheet,Fixed Assets,3633.0
+Marico,Marico,FY21,2021-03-31,Balance Sheet,CWIP,24.0
+Marico,Marico,FY22,2022-03-31,Balance Sheet,CWIP,39.0
+Marico,Marico,FY23,2023-03-31,Balance Sheet,CWIP,67.0
+Marico,Marico,FY24,2024-03-31,Balance Sheet,CWIP,44.0
+Marico,Marico,FY25,2025-03-31,Balance Sheet,CWIP,40.0
+Marico,Marico,FY26,2026-03-31,Balance Sheet,CWIP,85.0
+Marico,Marico,FY21,2021-03-31,Balance Sheet,Investments,854.0
+Marico,Marico,FY22,2022-03-31,Balance Sheet,Investments,828.0
+Marico,Marico,FY23,2023-03-31,Balance Sheet,Investments,1096.0
+Marico,Marico,FY24,2024-03-31,Balance Sheet,Investments,602.0
+Marico,Marico,FY25,2025-03-31,Balance Sheet,Investments,1590.0
+Marico,Marico,FY26,2026-03-31,Balance Sheet,Investments,2083.0
+Marico,Marico,FY21,2021-03-31,Balance Sheet,Other Assets,2936.0
+Marico,Marico,FY22,2022-03-31,Balance Sheet,Other Assets,3050.0
+Marico,Marico,FY23,2023-03-31,Balance Sheet,Other Assets,3391.0
+Marico,Marico,FY24,2024-03-31,Balance Sheet,Other Assets,3983.0
+Marico,Marico,FY25,2025-03-31,Balance Sheet,Other Assets,3887.0
+Marico,Marico,FY26,2026-03-31,Balance Sheet,Other Assets,4149.0
+Marico,Marico,FY21,2021-03-31,Balance Sheet,Shareholders' Equity,3240.0
+Marico,Marico,FY22,2022-03-31,Balance Sheet,Shareholders' Equity,3348.0
+Marico,Marico,FY23,2023-03-31,Balance Sheet,Shareholders' Equity,3799.0
+Marico,Marico,FY24,2024-03-31,Balance Sheet,Shareholders' Equity,3832.0
+Marico,Marico,FY25,2025-03-31,Balance Sheet,Shareholders' Equity,3975.0
+Marico,Marico,FY26,2026-03-31,Balance Sheet,Shareholders' Equity,4210.0
+Marico,Marico,FY21,2021-03-31,Balance Sheet,Capital Employed,3751.0
+Marico,Marico,FY22,2022-03-31,Balance Sheet,Capital Employed,3827.0
+Marico,Marico,FY23,2023-03-31,Balance Sheet,Capital Employed,4407.0
+Marico,Marico,FY24,2024-03-31,Balance Sheet,Capital Employed,4360.0
+Marico,Marico,FY25,2025-03-31,Balance Sheet,Capital Employed,4529.0
+Marico,Marico,FY26,2026-03-31,Balance Sheet,Capital Employed,4767.0
+Marico,Marico,FY21,2021-03-31,Income Statement,EBIT,1557.0
+Marico,Marico,FY22,2022-03-31,Income Statement,EBIT,1640.0
+Marico,Marico,FY23,2023-03-31,Income Statement,EBIT,1799.0
+Marico,Marico,FY24,2024-03-31,Income Statement,EBIT,2010.0
+Marico,Marico,FY25,2025-03-31,Income Statement,EBIT,2169.0
+Marico,Marico,FY26,2026-03-31,Income Statement,EBIT,2330.0
+Marico,Marico,FY21,2021-03-31,Cash Flow,Cash from Operations,2007.0
+Marico,Marico,FY22,2022-03-31,Cash Flow,Cash from Operations,1016.0
+Marico,Marico,FY23,2023-03-31,Cash Flow,Cash from Operations,1419.0
+Marico,Marico,FY24,2024-03-31,Cash Flow,Cash from Operations,1387.0
+Marico,Marico,FY25,2025-03-31,Cash Flow,Cash from Operations,1363.0
+Marico,Marico,FY26,2026-03-31,Cash Flow,Cash from Operations,2084.0
+Marico,Marico,FY21,2021-03-31,Cash Flow,Cash from Investing,-933.0
+Marico,Marico,FY22,2022-03-31,Cash Flow,Cash from Investing,441.0
+Marico,Marico,FY23,2023-03-31,Cash Flow,Cash from Investing,-928.0
+Marico,Marico,FY24,2024-03-31,Cash Flow,Cash from Investing,176.0
+Marico,Marico,FY25,2025-03-31,Cash Flow,Cash from Investing,-621.0
+Marico,Marico,FY26,2026-03-31,Cash Flow,Cash from Investing,-722.0
+Marico,Marico,FY21,2021-03-31,Cash Flow,Cash from Financing,-1058.0
+Marico,Marico,FY22,2022-03-31,Cash Flow,Cash from Financing,-1290.0
+Marico,Marico,FY23,2023-03-31,Cash Flow,Cash from Financing,-560.0
+Marico,Marico,FY24,2024-03-31,Cash Flow,Cash from Financing,-1542.0
+Marico,Marico,FY25,2025-03-31,Cash Flow,Cash from Financing,-649.0
+Marico,Marico,FY26,2026-03-31,Cash Flow,Cash from Financing,-1279.0
+Marico,Marico,FY21,2021-03-31,Cash Flow,Free Cash Flow,1870.0
+Marico,Marico,FY22,2022-03-31,Cash Flow,Free Cash Flow,884.0
+Marico,Marico,FY23,2023-03-31,Cash Flow,Free Cash Flow,1237.0
+Marico,Marico,FY24,2024-03-31,Cash Flow,Free Cash Flow,1234.0
+Marico,Marico,FY25,2025-03-31,Cash Flow,Free Cash Flow,1241.0
+Marico,Marico,FY26,2026-03-31,Cash Flow,Free Cash Flow,1772.0
