@@ -1,16 +1,15 @@
-
 # Indian FMCG Financial Statement & Ratio Analysis
 
 ![Excel](https://img.shields.io/badge/Excel-Financial%20Model-217346)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811)
+![Dashboard](https://img.shields.io/badge/Excel-Interactive%20Dashboard-217346)
 ![Finance](https://img.shields.io/badge/Domain-Financial%20Analysis-blue)
 ![Period](https://img.shields.io/badge/Period-FY21--FY26-lightgrey)
 
 [![Excel Model](https://img.shields.io/badge/Open-Excel%20Model-217346?style=for-the-badge)](excel/FMCG_Financial_Analysis.xlsx)
 [![Data](https://img.shields.io/badge/View-Data-blue?style=for-the-badge)](data)
-[![Power BI Guide](https://img.shields.io/badge/Read-Power%20BI%20Guide-F2C811?style=for-the-badge)](POWERBI_GUIDE.md)
+[![Dashboard](https://img.shields.io/badge/View-Dashboard-F2C811?style=for-the-badge)](outputs/dashboard.png)
 
-A 5-year financial comparison of five leading Indian FMCG companies (**HUL, ITC, Dabur, Britannia, and Marico**) using ratio analysis, DuPont analysis, and cash flow analysis. It is built as a formula-driven **Excel** model with an interactive **Power BI** dashboard.
+A 5-year financial comparison of five leading Indian FMCG companies (**HUL, ITC, Dabur, Britannia, and Marico**) using ratio analysis, DuPont analysis, and cash flow analysis. It is built entirely in **Excel** as a formula-driven model with an interactive dashboard.
 
 ---
 
@@ -92,11 +91,13 @@ Return ratios use **average** opening and closing balances, so they start in FY2
 
 | Sheet | Contents |
 | --- | --- |
-| **Notes** | Sources, colour legend, method notes, one-off items |
+| **Notes** | Sources, how to use, colour legend, method notes, one-off items |
+| **Dashboard** | Interactive one-page dashboard: pick a company and year from dropdowns to update the KPI cards, trend charts, DuPont breakdown, and peer table |
 | **Financials** | Raw statements for each company (blue = input, black = formula) |
 | **Ratios** | 20+ ratios per company per year, all formulas linked to Financials |
 | **Comparison** | FY26 snapshot, 5-year averages, and peer rankings |
-| **Dashboard** | Trend tables and charts |
+| **Charts** | Peer trend charts for margins, returns, and working capital |
+| **Calc** | Lookup table that feeds the Dashboard (INDEX/MATCH) |
 
 Every number in Ratios, Comparison, and Dashboard is a live formula. Changing an input in Financials updates the whole model.
 
@@ -128,7 +129,11 @@ Every number in Ratios, Comparison, and Dashboard is a live formula. Changing an
 | ROE | 22.2% | 32.3% | 18.8% | **57.8%** | 40.2% |
 | ROCE | 28.7% | 41.4% | 23.0% | **51.0%** | 46.4% |
 
-![Dashboard](outputs/dashboard.png)
+### Interactive Excel Dashboard
+
+Choose any company and year from the yellow dropdowns. The KPI cards (with change versus the previous year), 5-year trend charts, DuPont breakdown, and colour-scaled peer table all update automatically, using `INDEX`/`MATCH` lookups, data validation, and conditional formatting.
+
+[![Excel Dashboard](outputs/dashboard.png)](outputs/dashboard.png)
 
 ---
 
@@ -163,27 +168,17 @@ Companies earn high ROE in two different ways:
 
 ---
 
-## Power BI Dashboard
-
-The two long-format CSV files in `data/` are ready for Power BI. The [Power BI Guide](POWERBI_GUIDE.md) covers loading the data, the data model, DAX measures, and a 2-page layout (Peer Overview, and Trends & DuPont).
-
-![Power BI Dashboard](outputs/powerbi_dashboard.png)
-
----
-
 ## Repository Structure
 
 ```
-fmcg-financial-analysis/
+indian-fmcg-financial-analysis/
 ├── data/
-│   ├── fmcg_financials_long.csv   # 750 rows: statements in long format
-│   └── fmcg_ratios_long.csv       # 505 rows: ratios in long format
+│   ├── fmcg_financials_long.csv   # 750 rows: all statements in long format
+│   └── fmcg_ratios_long.csv       # 505 rows: all ratios in long format
 ├── excel/
 │   └── FMCG_Financial_Analysis.xlsx
-├── dashboard/
-│   └── fmcg_dashboard.pbix
-├── outputs/                       # Dashboard screenshots
-├── POWERBI_GUIDE.md
+├── outputs/
+│   └── dashboard.png              # Excel dashboard screenshot
 └── README.md
 ```
 
@@ -205,8 +200,8 @@ fmcg-financial-analysis/
 * Ratio and DuPont analysis
 * Working capital analysis
 * Financial modelling in Excel (formula-driven, colour-coded inputs)
+* Interactive Excel dashboards (dropdowns, INDEX/MATCH, conditional formatting)
 * Data validation and reconciliation
-* Power BI data modelling and DAX
 * Business insight writing
 
 ---
@@ -217,6 +212,7 @@ fmcg-financial-analysis/
 * [ ] Add valuation ratios (P/E, EV/EBITDA) using market prices
 * [ ] Extend the analysis to 10 years
 * [ ] Add Nestlé India once it has several full March-year-end periods
+* [ ] Rebuild the dashboard in Power BI or Tableau using the long-format CSV files in `data/`
 
 ---
 
