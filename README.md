@@ -5,9 +5,10 @@
 ![Finance](https://img.shields.io/badge/Domain-Financial%20Analysis-blue)
 ![Period](https://img.shields.io/badge/Period-FY21--FY26-lightgrey)
 
-[![Excel Model](https://img.shields.io/badge/Open-Excel%20Model-217346?style=for-the-badge)](excel/FMCG_Financial_Analysis.xlsx)
-[![Data](https://img.shields.io/badge/View-Data-blue?style=for-the-badge)](data)
-[![Dashboard](https://img.shields.io/badge/View-Dashboard-F2C811?style=for-the-badge)](outputs/dashboard.png)
+[![Excel Model](https://img.shields.io/badge/Open-Excel%20Model-217346?style=for-the-badge)](FMCG_Financial_Analysis.xlsx)
+[![Data](https://img.shields.io/badge/View-Data-blue?style=for-the-badge)](fmcg_ratios_long.csv)
+[![Dashboard](https://img.shields.io/badge/Open-Excel%20Dashboard-F2C811?style=for-the-badge)](FMCG_Financial_Analysis_dashboard.xlsx)
+[![Download](https://img.shields.io/badge/Download-Dashboard%20(.xlsx)-orange?style=for-the-badge)](FMCG_Financial_Analysis_dashboard.xlsx?raw=true)
 
 A 5-year financial comparison of five leading Indian FMCG companies (**HUL, ITC, Dabur, Britannia, and Marico**) using ratio analysis, DuPont analysis, and cash flow analysis. It is built entirely in **Excel** as a formula-driven model with an interactive dashboard.
 
@@ -133,7 +134,9 @@ Every number in Ratios, Comparison, and Dashboard is a live formula. Changing an
 
 Choose any company and year from the yellow dropdowns. The KPI cards (with change versus the previous year), 5-year trend charts, DuPont breakdown, and colour-scaled peer table all update automatically, using `INDEX`/`MATCH` lookups, data validation, and conditional formatting.
 
-[![Excel Dashboard](outputs/dashboard.png)](outputs/dashboard.png)
+[![Excel Dashboard](output/dashboard.png)](FMCG_Financial_Analysis_dashboard.xlsx)
+
+*Click the image to open the dashboard file, or [download it directly](FMCG_Financial_Analysis_dashboard.xlsx?raw=true) and open it in Excel. Choose a company and year from the yellow dropdown cells to update the page.*
 
 ---
 
@@ -172,13 +175,12 @@ Companies earn high ROE in two different ways:
 
 ```
 indian-fmcg-financial-analysis/
-├── data/
-│   ├── fmcg_financials_long.csv   # 750 rows: all statements in long format
-│   └── fmcg_ratios_long.csv       # 505 rows: all ratios in long format
-├── excel/
-│   └── FMCG_Financial_Analysis.xlsx
-├── outputs/
-│   └── dashboard.png              # Excel dashboard screenshot
+├── FMCG_Financial_Analysis.xlsx   # Excel model
+├── FMCG_Financial_Analysis_dashboard.xlsx   # Interactive Excel dashboard
+├── output/
+│   └── dashboard.png              # Dashboard screenshot
+├── fmcg_financials_long.csv       # 750 rows: all statements in long format
+├── fmcg_ratios_long.csv           # 505 rows: all ratios in long format
 └── README.md
 ```
 
@@ -212,7 +214,7 @@ indian-fmcg-financial-analysis/
 * [ ] Add valuation ratios (P/E, EV/EBITDA) using market prices
 * [ ] Extend the analysis to 10 years
 * [ ] Add Nestlé India once it has several full March-year-end periods
-* [ ] Rebuild the dashboard in Power BI or Tableau using the long-format CSV files in `data/`
+* [ ] Rebuild the dashboard in Power BI or Tableau using the two long-format CSV files
 
 ---
 
